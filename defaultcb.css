@@ -1,0 +1,301 @@
+body
+{
+background-color: #fff;
+width: 900px;
+color: black;
+/*color: #9f9f9f;*/
+font-size: 13px;
+font-family: "trebuchet ms", helvetica, sans-serif;
+}
+
+#content {
+	border-left: 160px solid #D5D5DC;
+	    margin: 15px 0px 0px 0px;
+    padding-left: 10px;
+}
+
+#wrapper {
+	position: relative;
+   width: 900px;
+	height: 97.3%;
+   margin: 0px auto;
+
+/*    background: #92847b url(background.gif) top center repeat-y;*/ 
+}
+#head {
+	position: relative;
+	top: 0px;
+   height: 120px;
+   background: #32678f;
+    
+/*    background: url(header.gif) top center no-repeat;*/
+    /* border: 1px solid red; */
+}
+
+#page-title {
+   position: absolute;
+   top: 35px;
+	left: 190px;
+	width: 625px;
+	font-size: 20pt;
+	font-weight: bold;
+	color: #eee;
+}
+
+#page-subtitle {
+   position: absolute;
+   top: 65px;
+	left: 190px;
+	width: 625px;
+	font-size: 16pt;
+	font-weight: bold;
+	color: #ddd;
+}
+
+#col-left {
+   position: relative;
+   float: left;
+   width: 160px;
+/*	margin: 15px 0px 0px 40px;*/
+	margin: 15px 0px 0px 0px;
+	padding-left: 0px;
+   background: #D5D5DC;
+/*  	border: 1px solid black;*/
+}
+#col-right {
+    position: relative;
+    float: right;    
+    width: 720px;
+    margin: 15px 0px 0px 0px;
+    padding-left: 10px;
+/*    background: #FFE7BA;
+  	 border: 1px solid black;*/
+
+}
+
+h1
+{
+background: #CDAA7D; 
+padding: 3px 0px 3px 15px;
+color: #502517;
+font-size: 22px;
+}
+
+h2
+{
+/*background: #CD9A6D;*/
+background: #D9C6AD;
+padding: 1px 0px 1px 15px;
+color: #32678F;
+font-size: 16px;
+}
+
+h3
+{
+/*margin-top: 30px;*/
+background: inherit;
+color: #32678F;
+font-size: 14px;
+/*height: 14px;
+background: url('images/a3.gif') repeat-x 0px 17px;*/
+}
+
+a
+{
+text-decoration: underline;
+color: #93B300;
+}
+
+a.header
+{
+text-decoration: underline;
+color: #FFFF00;
+}
+
+a:hover
+{
+text-decoration: none;
+color: #fff;
+background: #D3E378 url('images/bbg1.gif') repeat-x;
+}
+
+#menu ul
+{
+list-style: none;
+margin: 0px;
+}
+
+.title{
+background: #32678f;
+color: #eee;
+padding: 5px;
+font-weight: bold;
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+border-bottom: 1px solid #666;
+}
+
+.options {
+	font-size: 14px;
+	color: #006666;
+	text-decoration: underline;
+}
+#menu li
+{
+background: none;
+padding: 0px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 0px;
+border-bottom: 1px solid #666;
+}
+
+#menu a
+{
+display: block;
+position: relative;
+width: 160px;
+/*height: 27px;*/
+margin-bottom: 1px;
+text-decoration: none;
+background: inherit;
+background-image: url('images/bbg0.gif');
+padding-left: 0px;
+padding-top: 11px;
+color: #636363;
+text-transform: lowercase;
+font-size: 13px;
+}
+
+#menu a span
+{
+position: absolute;
+right: 0px;
+margin-top: 5px;
+margin-right: 15px;
+width: 20px;
+height: 14px;
+background: url('images/dots.png') no-repeat; 
+}
+
+#menu a:hover span
+{
+position: absolute;
+right: 0px;
+margin-top: 5px;
+margin-right: 15px;
+width: 20px;
+height: 14px;
+background: url('images/dots.png') no-repeat;
+}
+
+#menu a:hover
+{
+/*background: inherit;*/
+background: grey;
+color: #fff;
+background-image: url('images/bbg1.gif');
+}
+
+ul.noIndent 
+{
+margin-left: .1em;
+padding-left: .1em;
+}
+
+ul
+{
+/*list-style: none;*/
+}
+
+li
+{
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+/*background: url('images/x1.gif') no-repeat;*/
+}
+
+li.names
+{
+font-size: 12px; 
+}
+
+p
+{
+margin-bottom: 15px;
+text-align: justify;
+/*line-height: 20px;*/
+}
+
+.box
+{
+position: relative;
+border: dashed 1px #dadada;
+margin-top: 15px;
+margin-left: 5px;
+margin-right: 5px;
+background: inherit;
+color: #445632;
+}
+
+.box h2
+{
+background: none;
+color: #663822;
+font-weight: normal;
+font-size: 18px;
+margin-bottom: 5px;
+}
+
+.box p
+{
+margin-bottom: 15px;
+font-size: 13px;
+/*line-height: 16px;*/
+/*margin: 0px;*/
+}
+
+.box_inner
+{
+border: solid 1px #fff;
+padding: 15px;
+background: #FFFFE9 url('a4.gif') repeat-x;
+color: inherit;
+}
+
+.captioned_image
+{
+position: relative;
+padding-bottom: 15px;
+float: left;
+margin-right: 17px;
+}
+
+.captioned_image div
+{
+position: absolute;
+font-size: 9px;
+bottom: 0px;
+left: 0px;
+}
+
+.divider
+{
+font-size: 0px;
+position: relative;
+border-bottom: solid 1px #F5F5F5;
+height: 1px;
+width: 100%;
+margin: 10px 0px 10px 0px;
+}
+
+.account {
+	font-size: 16px;
+	color: #F3E91B;
+	font-weight:bolder;
+}
+.mybutton{
+width:10em;
+}
