@@ -1,0 +1,67 @@
+
+
+
+ International Mathematical Union   (IMU) :
+http://www.mathunion.org/
+
+
+
+
+
+cv, see http://www.math.uwaterloo.ca/~sacampbe/
+
+
+
+My research involves building and analyzing mathematical models for a variety of biological and physical systems. Particular applications
+ I have studied include metal cutting, biological and artificial neural networks and feedback control systems. Although physically unrelated,
+  the behaviour of the these systems is influenced by the same factors: the presence of nonlinearities and time delays. The time delays
+   represent the time it takes information to propagate from one part of the system to another. The nonlinearity represents the fact
+    that in these systems a small change in the state can often result in a large change in behaviour. Mathematically, my research
+     involves dynamical systems theory (e.g., stability, bifurcations, centre manifolds and normal forms) and its extensions
+      to delay differential equations. A detailed description 
+       of my current research projects is also available.
+       
+       
+
+
+
+How to reach me
+
+
+office: MC5005/
+phone: (519) 888-4567 Ext. 35461 
+fax: (519) 746-4319
+email: sacampbell@uwaterloo.ca 
+
+
+regular mail:
+Sue Ann Campbell 
+Department of Applied Mathematics
+University of Waterloo
+Waterloo, Ontario 
+N2L 3G1 
+Canada
+
+
+Software I use in my research:
+
+XPPAUT (numerical integration of delay differential equations, among other things) : http://www.math.pitt.edu/~bard/xpp/xpp.html
+AUTO (bifurcation continuation for ODE's)
+DDE-BIFTOOL (bifurcation continutation for delay differential equations) : http://twr.cs.kuleuven.be/research/software/delay/ddebiftool.shtml
+MATCONT (bifurcation continuation software for ODE's that runs under Matlab.) : http://www.matcont.ugent.be/
+
+
+
+
+http://www.whydomath.org/
+
+http://www.cs.umd.edu/users/oleary/gradstudy/gradstudy.html
+
+
+
+
+
+Postdoctoral Fellow :  
+Dr. Juping Zhang, March 1, 2012-- Feb. 28, 2013
+Dr. Guihua Li, Sept. 1, 2010-- Aug. 31, 2013
+Dr. Hui Wan, Sept. 1, 2009--Aug. 31, 2010 

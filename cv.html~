@@ -1,0 +1,2862 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Page web de M.A. Aziz-Alaoui : 
+Professeur de mathématiques, université du Havre, Normandie, France 
+</title>	
+		
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta name="author" content="Aziz Alaoui" lang="fr">	
+	<meta name="Keywords" content=" 
+	Mathématiques Appliquées, Applications,
+	Systèmes dynamiques,vmaster recherche,  master math-info, 
+	master math&eacute;matique-informatique,
+	formation bac+5, universit&eacute; du Havre, master syst&egrave;mes 
+	complexes, syst&egrave;mes complexes, Chaos, chaotique, Bifurcations, 
+	Synchronisation, contrôle, math-bio, eco bio-modelling, modélisation, 
+	neuroscience, ecosystèmes,  EDO, EDP, EDR, Systèmes complexes, 
+	Réseaux d'interactions, Bio-complexité, Auto-organisation et Emergence" lang="fr"> 
+	<meta name="Description" content="page web de Aziz Alaoui ">
+	<meta name="generator" content="Bluefish 2.2.12beta1" >
+	<meta name="Robots" content="all">
+	<meta name="revisit-after" content="7 days">			
+	<link href="aziz2012.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="functions.js"></script>
+</head>
+
+<body>	
+
+<div id="global">
+
+<div id="top">
+    <h1>
+        M.A. Aziz Alaoui<br> Professeur de Mathématiques,
+Université du Havre, Normandie
+    </h1>
+    <img id="logo" src="Logo-Univ-ULHN-LH-et-Normandie.png" HEIGHT=80 WIDTH=160 alt="logo universite du Havre">
+</div>
+  
+
+ 
+
+<div id="center">
+<div id="nav">
+
+
+ 
+<ul id="menu">
+
+<li class="menu" id="menu1"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Home</a></li>
+
+<li class="menu" id="menu2"><a href="http://lmah.univ-lehavre.fr/~alaoui/cv.html">Cv</a></li>
+
+<li class="menu" id="menu3"><a href="#" jotId="wuid:gx:4ffe1adcc2478720" class="sites-navigation-link topLevel">Recherche</a>
+		<ul class="sousmenu" id="sousmenu3">
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/publications.html">Publications</a></li>			
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/synthese_rech.html">Synthèse Recherche</a></li>
+			<li><a href="#encadrement">Encadrement</a></li>
+			<li><a href="#cooperation">Coopérations</a></li>
+		   <li><a href="#organisation">Colloques (co)organisés</a></li> 
+		   		   	
+		   <li><a href="http://lmah.univ-lehavre.fr/~alaoui/publications.html#Edited Proceedings">Proceedings.Edités</a></li>
+		    
+			<li><a href="http://litis.univ-lehavre.fr/risc/">Feder-Risc</a></li>  
+			<li><a href="http://iscn.univ-lehavre.fr/">Iscn</a></li>			
+			<li><a href="https://www.cs-dc.org/">Complex Systems Digital Campus Unesco</a></li>  
+	      <li><a href="http://www.watam.org/JNSA/">J.N.S.A.</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/sp_gallery_chua.html">MultiSpir.S.A</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/az_hen_n.html">MultiFolds.S.A</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/animation.html">Animated.S.A</a></li>
+		</ul>
+</li>
+
+
+<li class="menu" id="menu4"><a href="http://lmah.univ-lehavre.fr/~alaoui/animation.html">Animation Attracteurs </a></li>
+
+
+<li class="menu" id="menu5"><a href="http://lmah.univ-lehavre.fr/~formation/">Enseignement</a>
+		<ul class="sousmenu" id="sousmenu5">
+			<li><a href="http://matis.univ-lehavre.fr">Master</a></li>
+			<li><a href="https://www.univ-lehavre.fr/spip.php?formation8">Licence</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~formation/Master2MASC.html">Emploi du temps</a></li>
+		</ul>
+</li>
+
+<li class="menu" id="menu6"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Liens Locaux</a>
+		<ul class="sousmenu" id="sousmenu6">    	
+			<li><a href="http://lmah.univ-lehavre.fr/">Labo.Math.Appli.Ulh</a></li>
+			<li><a href="http://normandie.math.cnrs.fr/">Fnm: Fr-Cnrs-3335</a></li>
+			<li><a href="http://isc-n.fr/">Iscn</a></li>
+			<li><a href="http://www.grrhn.fr/">Grr-Hn</a></li>
+			<li><a href="http://www.coria.fr/dycoec/"> Gdr-2489 Cnrs Dycoec</a></li>		
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/ds_conferences.html">Colloques</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/revues_dyn_syst.html">Revues</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/labo_nonlinear.html">Labos.S.D.</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/fractal.html">Fractales</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/chaotic_mappings_az.html">Chaotic Mappings</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/wonder_math.html">Math.Ressouces</a></li>
+			<li><a href="http://lmah.univ-lehavre.fr/~alaoui//utilitaires.html">Info.Ressources</a></li>
+		</ul>
+</li>
+
+
+<li class="menu" id="menu7"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Liens Extérieurs</a>
+		<ul class="sousmenu" id="sousmenu7">
+
+		
+         <li class="sousmenu" id="sousmenu7"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Ressources</a>
+        	 <ul class="soussousmenu" id="soussousmenu7a">
+					<li><a href="http://hal.archives-ouvertes.fr/">Hal Archives</a></li>
+					<li><a href="http://arxiv.org/archive/math">arXiv preprint archive</a></li>
+					<li><a href="http://www.ams.org/mathscinet/">MathSciNet</a></li>
+					<li><a href="http://www.zentralblatt-math.org/zbmath//">Zentralblatt Math</a></li>					
+					<li><a href="http://mathworld.wolfram.com/">Wolfram MathWorld</a></li>
+					<li><a href="http://planetmath.org/">Planete Math</a></li>
+					<li><a href="http://http://mpe2013.org/">Math of Planet Earth</a></li>
+					<li><a href="http://www.encyclopediaofmath.org/index.php/Main_Page">Encyclopedia of math</a></li>	
+         	 </ul>         
+         </li> 		
+
+  			<li class="sousmenu" id="sousmenu7"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Sociétés, Agences, Instituts</a>
+         		<ul class="soussousmenu" id="soussousmenu7b">
+         		
+         			<li><a href="http://isc-n.fr/">Iscn</a></li>
+         			<li><a href="http://smai.emath.fr/">Smai</a></li>
+					<li><a href="http://www.agence-maths-entreprises.fr/a/?q=fr/">Amies:Math-Entreprise-Soc</a></li>
+					<li><a href="http://www-mathdoc.ujf-grenoble.fr/">Math.Doc</a></li>
+          	</ul>         
+         </li> 		
+
+				<li class="sousmenu" id="sousmenu7"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Passe-Temps ?</a>
+         		<ul class="soussousmenu" id="soussousmenu7c">
+         		 
+         			<li><a href="http://www.whydomath.org/">WhyDoMath</a></li>	
+					<li><a href="http://www.theoremoftheday.org">Theorem of the Day</a></li>					
+					<li><a href="http://images.math.cnrs.fr/">Images.Des.Maths</a></li>
+						 
+					<li><a href="http://ta.twi.tudelft.nl/nw/users/vuik/wi211/disasters.html">Désastre.Erreurs.Num</a></li>	
+					<li><a href="http://en.wikipedia.org/wiki/Category:Mathematics_paradoxes">Math-Paradoxes</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Category:Paradoxes">Category-Paradoxes</a></li>	
+					
+					<li><a href="http://www-groups.dcs.st-and.ac.uk/history/">Mathématiciens.Célèbres</a></li>						
+					<li><a href="http://en.wikipedia.org/wiki/Fields_Medal">Fields</a></li>					
+					<li><a href="http://www.nobelprize.org/nobel_prizes/lists/all/">Nobel</a></li>
+					<li><a href="http://en.wikipedia.org/wiki/Ig_nobel/">Ig Nobel</a></li>	
+		 			<li><a href="http://lmah.univ-lehavre.fr/~alaoui/erdosNumber.html">Nombre.Erdos</a></li>
+
+					<li><a href="http://www.phdcomics.com/">PhdComics</a></li>
+					<li><a href="http://www.prestidigitascience.fr/">PrestidigitaScience</a></li>
+					<li><a href="http://www.univ-rouen.fr/LMRS/Vulgarisation/index.html">Vulgarisation.Des.Maths(Lmrs)</a></li>
+				
+					<li><a href="http://thatsmathematics.com/mathgen/">WriteMathPaper</a></li>		
+					
+          	</ul>         
+         </li> 		
+
+					
+		</ul>
+</li>
+
+<li class="menu" id="menu8"><a href="http://lmah.univ-lehavre.fr/~alaoui/">Autres Perso.</a>
+		<ul class="sousmenu" id="sousmenu8">
+		    <li><a href="http://lmah.univ-lehavre.fr/~alaoui/gallerie/gallerieZ.html">Photos Gallerie</a></li>
+			 <li><a href="http://lmah.univ-lehavre.fr/~alaoui/hobbies.html">Hobbies</a></li>
+			 <li><a href="http://lmah.univ-lehavre.fr/~alaoui/favorites_places.html">Lieux Favoris</a></li>
+		</ul>
+</li>
+
+<li class="menu" id="menu9"><a href="http://www.univ-lehavre.fr">Univ.LeHavre</a></li>
+<li class="menu" id="menu10"><a href="http://www.normandie-univ.fr/">Normandie-Univ.</a></li>
+<li class="menu" id="menu11"><a href="http://www.watam.org/JNSA/"> J. NonLin.Syst.Appli</a></li>
+<li class="menu" id="menu12"><a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&t=h&source=embed&msa=0&msid=111653321018646836785.0004668f73931912b83ce&ll=49.493288,0.12336&spn=0.01338,0.027466&z=15"> Location of My Univ.</a></li>
+
+
+</ul> 
+ 
+ 
+ 
+
+
+<h2>
+     Coordonnées       
+</h2>
+ <img src="letr_posteaz.gif">
+<p>
+  <b>Adresse : </b>
+  M.A. Aziz Alaoui<br/> 
+LMAH, 
+FR-CNRS-3335,
+Université du Havre Normandie,
+25 Rue Ph. Lebon, BP:540, 
+76058 Le Havre Cedex, (Normandie) France <br/>
+  <b>Bureau  : </b> UFR-ST, aile G-102 <br/>
+  <b>Tel:  </b>  +33 (0)2 35 21 72 13  <br/>
+  <b>Courriel : </b>
+  <a href="mailto:aziz.alaoui@univ-lehavre.fr">aziz.alaoui@univ-lehavre.fr</a> </br> 
+
+ </p>
+   <p><br> 
+    <img src="photo-Aziz-2021-a.png"     HEIGHT=100 WIDTH=90    alt="me"><br>
+   </p>
+
+ 
+
+</p>
+
+<h2>Responsabilités</h2>
+<p> <b>- Référent Déontologue de l'Université du Havre Normandie
+<p> <b>- ex Vice-Président de l'université, chargé des finances, du numérique et du pilotage
+<p> <b>- ex Directeur du LMAH </b> Laboratoire  Math. Appliq. 
+<p> <b>- ex Coordinateur</b> du Master Math-Appliquées.
+<p> <b>- ex Vice-Président de </b>  Normandie Université
+<p> <b>- ex Vice-Président</b> de l'université du Havre, Conseil Scientifique : 
+Recherche-Valorisation-Etudes Doctorales, janvier 2007 - mai 2012.
+
+
+
+<p><b>
+<CENTER>
+<IMG SRC="line_rainbow.gif"HEIGHT=3 WIDTH=80 ></IMG>
+</CENTER>
+
+<CENTER>
+
+<! img SRC="Aziz68.jpg"HEIGHT=80 WIDTH=80 ><! /img>
+<! img SRC="aziz88b.jpg"HEIGHT=80 WIDTH=60 ><! /img>
+<! img SRC="Aziz1991.jpg"HEIGHT=80 WIDTH=60 ><! /img>
+<! img SRC="az-identity_home.jpg"HEIGHT=80 WIDTH=60 ><! /img>
+<! img src="Aziz-Nov2012.JPG"     HEIGHT=80 WIDTH=60 ><! /img>
+<! img SRC="photo-mars19.png"HEIGHT=80 WIDTH=60><! /img>
+<br>
+
+</CENTER>
+<br/>
+
+</p>
+<br/>
+<br/>
+</div>
+
+
+				
+<div id="content">		
+<table cellspacing="5", cellpadding="5">
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="6" align="center">
+    
+     
+   
+           <p></p>
+                            
+    </td>
+</tr>
+
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="6" align="center">
+      <h2>
+          <FONT COLOR=white FONT SIZE=5> CV de Aziz-Alaoui M.A. </FONT>
+      </h2>
+      
+      
+           <FONT COLOR=white FONT SIZE=4> CV succinct  (short version in french ) </FONT>
+ <a href="CV-succinct-janv2024-AzizAlaoui.pdf"><b> <img  src="icone9-pdf.jpeg" HEIGHT=19 WIDTH=29 alt="*"> ICI </b></a>  
+           
+                 
+
+           <!br><!FONT COLOR=white FONT SIZE=3>   <!/FONT>
+
+<p></p>
+      
+           <FONT COLOR=white FONT SIZE=1> English  version  available </FONT>
+           <a HREF="http://lmah.univ-lehavre.fr/~alaoui/cv_ENGLISH.html">  here 
+           <IMG SRC="english_usa_flag.jpg" HEIGHT=15 WIDTH=30 ALIGN=CENTER></a> 
+
+ <p>
+ 
+
+<br>Je suis actuellement : 
+
+<br> <b>- Professeur de mathématiques</b> (PR. Classe.Ex2, 26ème-CNU) à <a href=" http://www.univ-lehavre.fr/">l'université 
+du Havre Normandie</a> 
+
+<br>  <b>- Co-directeur </b> de 
+l'<a href="http://iscn.univ-lehavre.fr/">ISCN</a> (Institut des Systèmes Complexes de Normandie)
+
+ 
+
+<br>  Par ailleurs : 
+<br> <b>- ex Directeur </b> du <a href="http://lmah.univ-lehavre.fr/"> LMAH</a>, 
+Laboratoire de Mathématiques Appliquées du Havre (FR-CNRS-3335).
+<br> <b>-  ex Vice-président </b> de  l'<a href=" http://www.univ-lehavre.fr/">Université du Havre Normandie</a>, 
+chargé des Finances et du numérique
+<br> <b>- ex Vice-président </b> de  <a href=" http://www.normandie-univ.fr/">  Normandie-Université</a>, 
+Communauté d'Universités et Etablissements (ComUE Caen-LeHavre-Rouen)
+<br> <b>- ex Vice-président </b> de  l'<a href=" http://www.univ-lehavre.fr/">Université du Havre</a>, 
+Conseil Scientifique :  Recherche-Valorisation-Ecoles Doctorales 
+
+
+<br> <b>- Editeur associé</b>, passé ou en cours , pour 6 journaux scientifiques, parmi lesquels 
+	<a href="http://www.worldscinet.com/ijbc/"> IJBC</a>  ou  	<a href="https://www.aimspress.com/nhm/news/solo-detail/editorialboard"> NHM </a> 
+           
+           
+
+
+<ul class="custom">
+    <li><a href="#formation">  Formation </a></li>
+    
+    <li><a href="#publications"> Activités Scientifiques et Publications </a></li>
+    
+    <li><a href="#proceedings"> Edition de Proceedings de Colloques </a></li>
+ 	<li><a href="#editeur"> Activité Editoriale présente ou passée</a></li>
+
+ 	<li><a href="#primes"> Primes </a></li>
+ 
+ 	<li><a href="#expertises"> Expertises  </a></li>
+
+ 	<li><a href="#invitations"> Récentes invitations pour séjour à l'international </a></li>
+ 	
+ 	<li><a href="#seminaires"> Récentes invitations pour exposés à des conférences ou seminaires </a></li>
+
+	<li><a href="#organisation"> (Co-)Organisateur de conférences (ou workshops ou Ecoles)  </a></li>
+
+ 	<li><a href="#comites"> Membre invité au comité de programme ou au comité scientifique de conférences internationales </a></li>
+ 	
+ 	<li><a href="#cooperation"> Coopérations Scientifiques  </a></li>
+
+ 	<li><a href="#rayonnement"> Rayonnement Scientifique et Distinctions </a></li>
+
+	<li><a href="#responsabilites"> Responsabilités Scientifiques Majeures </a></li>
+
+	<li><a href="#encadrement"> Encadrement de doctorants et Post-doc </a></li>
+
+	<li><a href="#jury"> Rapporteur ou jury de Thèses ou HDR </a></li>
+
+	<li><a href="#master"> Encadrement d'étudiants de Master </a></li>
+
+	<li><a href="#administration"> Responsabilités et Activités Administratives </a></li>
+
+	<li><a href="#pedagogie"> Responsabilités et Activités Pédagogiques </a></li>
+
+</ul>
+           
+    </td>
+</tr>	
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2> <span><a name="formation"></a> <FONT COLOR=white FONT SIZE=4>Formation</FONT></span>
+      </h2>
+        <p align="justify">
+        
+<ul>
+ 	<li><b>Université de formation :</b>  Nice - Sophia-Antipolis.  
+
+	<li><b>Doctorat</b> de mathématiques de l'Université de  <A HREF="http://math.unice.fr/">Nice-S-A</A>, 
+	(aussi bien que le DEA, Maîtrise, licence et 1er cycle)
+
+	<li> <b>HDR :</b>  
+	(<a href="https://en.wikipedia.org/wiki/Habilitation">  Habilitation à Diriger des Recherches</a>) 
+	  en mathématiques, 
+	soutenue au <A HREF="http://www.univ-lehavre.fr/">Havre</A> janvier 2001. 
+ 
+	<li><b>Actuellement : </b> Professeur de Mathématiques à l'université du Havre Normandie  (Pr. 2ème 
+	et dernier échelon de la classe exceptionnelle, 26ème section du CNU).
+ 
+	<li><b>Occupations jusqu'à maintenant :</b> 
+	<p> - Recherche et Enseignement en  
+    	Mathématiques  et Applications des mathématiques :
+    	<br>  	Systèmes dynamiques non linéaires, 
+		modélisation, Equations différentielles (EDO, EDP),  
+		Chaos, Bifurcations,   (attracteurs étranges,  contrôle et synchronisation du chaos, ...), 
+		Systèmes Complexes  et Réseaux d'Intéraction.  
+	<p> -	Administration de la recherche et de l'établissement (VP du CS de l'ULH, VP du PRES puis de la ComUE normandie Université,   
+	 directeur du laboratoire de math.appli., coordinateur du master, ...)   		
+		</li>
+	
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+            
+	</ul>
+    </td>
+</tr>	
+
+ 
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2> <span><a name="publications"></a>  <FONT COLOR=white FONT SIZE=4>Activités Scientifiques et Publications</FONT> </span> </h2>
+      <p align="justify">
+      
+      
+      
+<p>Mon activité de recherche a progressivement évoluée, de l'analyse asymptotique d'équations 
+différentielles ordinaires (stabilité, bifurcations, chaos et attracteurs étranges, synchronisation, ...) avec des 
+applications sur les oscillateurs éléctriques, 1990-2000, à celle des ED-Retard et EDP (d'un point de vue systèmes dynamiques)
+avec des applications plus axées sur
+le ''vivant'', 2000-... ; puis sur les systèmes complexes et réseaux d'interaction (essentiellement
+l'étude de systèmes d'EDO ou d'EDP, couplés selon différentes topologies de résaux/graphes,  modélisant 
+des problèmes en neuroscience, en écosystèmes,
+type proie-prédateurs, ou en épidémiologie), 2006-....
+
+      </p>
+      
+      
+   <p>
+ Publications parues, en particulier,  dans :   
+   </p>   
+     
+      <ul class="custom">
+  
+  
+  <li>
+  
+  Nonlinearity ;   
+  Journal of Nonlinear Science ; 
+    Scientific Reports (Nature) ; 
+  Networks & hteterogeneous Media ; 
+  Journal of Math. Biology ;
+  Acta Biotheoretica ; 
+  Mathematical Biosciences ;  
+
+
+<!--   
+  Mathematical Biosciences and Engineering ; 
+     International Journal of Neural Systems  ; 
+  Journal of Biological Systems ; 
+  International Journal of Biomathematics ; 
+  Biology ;    -->
+  
+
+  International Journal of Bifurcation and Chaos ; 
+  
+  Chaos  an Interdisciplinary Journal of Nonlinear Science ;
+    
+  Chaos Sol. & Fractals ; 
+  
+  Nonlinear Dynamics ;
+  
+  
+  Communications on Pure & Applied Analysis ; 
+  
+  NonLinear Analysis Real World Applications ; 
+  
+  Journal of Mathematical Analysis and Applications ;  
+  
+    IMA Journal of Applied Math.  ; 
+  
+  IMA Journal of Mathematical Medicine and Biology ; 
+  
+  IMA Journal of Mathematical Control and Information ;  
+  
+  Mathematical Modelling of Natural Phenomena ; 
+     
+  Discrete & Continuous Dynamical Systems - B ,  & ... -S ;  
+  
+
+  Applied Math Letters ; 
+
+    Evolution Equations and Control Theory ; 
+    
+    
+  Discrete Applied Mathematics ; 
+    
+  Communications in Nonlinear Science and Numerical Simulation ;
+  
+    Science China Information Sciences ; 
+  
+  <!--    
+  Differential Equations and Dynamical Systems ; 
+  Advances in Dynamical Systems & Applications ;  -->
+     
+  
+  
+ 
+    Journal of Phy-A:MATHematical and theoretical ; 
+    
+  Physica-D ;
+   
+  Phys-Review E ;
+  
+    IEEE Transactions on Circuits and Systems I ; 
+    
+   Chinese Physics B ;   
+   
+   
+  Encyclopedia of Mathematical Physics ;
+  
+  
+   
+   ... ; 
+  
+    
+  
+   <!--   Applied Mathematical Modelling ;
+  Applied Mathematics and Computation ; 
+  Computational and Applied Mathematics  ; 
+  Journal of Applied Mathematics and Computing ;   
+  Computers & Mathematics with Applications an International Journal ;  
+     Nonautonomous Dynamical Systems ; 
+      Dynamics of Continuous Discrete and Impulsive Systems series A  & series B ;
+  Discontinuity Nonlinearity and Complexity ; 
+  Journal of Applied Nonlinear Dynamics ; 
+  ESAIM Proceedings and Surveys ; 
+  Physica Scripta ;
+  International Journal of Modern Physics C ;   
+  Journal of Statistical Physics ; 
+  Physics Letters A ;
+  Physica Scripta ; 
+  Concurrency and Computation: Practice and Experience ; 
+  Annales Maghrébines de l'ENIT Modélisation et Calcul ; 
+  Arab Journal of Mathematics and Mathematical Sciences ; 
+  Abstract and Applied Analysis ; 
+  JNSA ; 
+  ARIMA ;  
+  Transworld Research Network Collection Mathematical Biology ;
+  Mathematical Modelling and Computing in Biology and Medecine ;
+  Springer Proceedings in Complexity ; Understanding Complex Systems ; 
+  .... ; 
+  Springer books  ;
+  ... 
+  Proceedings ; 
+  ... 
+  -->
+  
+  
+  
+  </li>
+
+
+  <li> Understanding Complex Systems, books series, Springer-Verlag,</li>  
+  
+
+</ul>
+ 
+
+
+	<p>Voir <a href="http://lmah.univ-lehavre.fr/~alaoui/publications.html"> ICI  les PUBLICATIONS </a>
+
+
+	
+
+            <p> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </p>
+            
+            
+            
+    </td>
+ </tr>	
+
+ 
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="proceedings"></a>  <FONT COLOR=white FONT SIZE=4>Edition de Proceedings de Colloques</FONT> </span> </h2>
+      <p align="justify">
+      Voir  
+        <a href="http://lmah.univ-lehavre.fr/~alaoui/publications.html#Edited Proceedings">Proceedings.Edités</a>
+		 
+		 
+      </p>
+    </td>
+ </tr>	
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="editeur"></a> <FONT COLOR=white FONT SIZE=4>Activité Editoriale</FONT></span>
+      </h2>
+        <p align="justify">
+        <ul>
+
+EN COURS :
+
+	<li> <b>Editeur associé</b> pour la revue 	
+	<a href="https://www.aimspress.com/nhm/news/solo-detail/editorialboard">    Networks & hteterogeneous Media </a>  en cours  </li>
+	
+	<li> <b>Editeur associé</b> pour la revue 	
+	<a href="https://www.mdpi.com/journal/modelling">  Modelling </a>  en cours  </li>
+	
+ 
+	<li> <b>Editeur associé</b> pour la revue
+	<a href="https://www.frontiersin.org/journals/applied-mathematics-and-statistics/sections/mathematical-biology">
+	Frontiers in Applied Mathematics and Statistics,  section  Mathematical Biology</a>,  en cours  </li>
+ 
+ 	<li> <b>Editeur associé</b> pour la revue
+	<a href="https://jisst.com/editorial">
+	  Journal of Innovation Sciences and Sustainable Technologies</a>,   (ISSN: 2583-3324), ...  </li>
+	  
+ 
+ ANCIEN : 
+ 
+ 
+	<li> <b>Editeur associé</b> pour la revue internationale 
+	<a href="http://www.worldscinet.com/ijbc/"> IJBC</a>,   01-01-2010  - août 2015  </li>
+	
+	
+	<li>  et :  DCDIS-B , IJ3C ,  AJMMS  ,  JAS ,  AJMS </li>
+	
+	
+        
+        
+        
+	  <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+        
+        
+	</ul>
+    </td>
+</tr>	
+ 
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2>  <span><a name="primes"></a>  <FONT COLOR=white FONT SIZE=4> Primes </FONT> </span> </h2>
+       <p align="justify"> 
+	<ul>
+       	<li>  <b>PEDR</b>  septembre 2018 - septembre 2022  </li>
+	       <li>  <b>PEDR</b>  septembre 2014 - septembre 2018  </li>
+        	<li>  <b>PES</b>  septembre 2010 - septembre 2014, (notes  A,A,A,A)</li>
+	       <li>  <b>PEDR</b>  septembre 2006 - septembre 2010  </li>
+	       <li>  <b>PEDR</b>  septembre 2001 - septembre 2005 </li>
+
+			  
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+   </ul>
+
+
+      </p>
+    </td>
+ </tr>	
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2>  <span><a name="expertises"></a>  <FONT COLOR=white FONT SIZE=4> Expertises </FONT> </span> </h2>
+       <p align="justify">
+         Voir <a href="#rayonnement"> Rayonnement Scientifique </a>
+      </p> 
+    </td>
+ </tr>	
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="invitations"></a>  <FONT COLOR=white FONT SIZE=4> 
+      Récentes invitations à l'international  (not updated) </FONT> </span> </h2>
+      <p align="justify"> 
+	 <ul>
+
+
+
+   	<li> <b>Chine :</b> 1 mois, à Changsha,  Wuhan, Shenzhen,   october 2025,  divers exposés.
+  Voir aussi : 
+ <a href="ChangSha-Invitation-3years-2025-2029.pdf"><b> <img  src="icone9-pdf.jpeg" HEIGHT=15 WIDTH=25 alt="*"> ici </b></a>   
+    </li>   	
+ 
+ 
+   	<li> <b>...  </b>  ...
+    </li>   	
+ 
+ 
+	 	
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  <li>     (Non mis à jour) :</li> 
+	 
+		 
+	 	 <li>  
+	  </li> 
+	  
+
+   	<li> <b>Chine :</b> 1 mois, à Wuhan et Changsha,   June/July 2018,  
+  et exposé plénier à WANCSA 2018   
+    </li>   	
+ 
+    
+
+   	<li> <b>Chine :</b> 1 mois , Changsha, Wuhan, Beijing,  June 2016,  
+   voir aussi 
+ <a href="ChangSha-Invitation-3years.pdf"><b> <img  src="icone9-pdf.jpeg" HEIGHT=15 WIDTH=25 alt="*"> ici </b></a>   
+    </li>   	
+    
+    
+	<li> <b>Inde :</b> 15 jours, au Lab. bio-Math,  IIT-Roorkee-Inde,  Février 2016 </li>
+	
+	<li> <b>Tlemcen :</b> 1 semaine,  avril 2015</li>
+
+   	<li> <b>Chine :</b> 1 semaine au Cplx-Syst Lab., Shanghai Jiao Tong University (SJTU),  <b> Shanghai</b>,  may 2014,  </li>
+	
+	<li> <b>Chine :</b> un mois au Nonlinear Complex Systems Lab., Wuhan (WTU), Chine, avril/mai 2014
+	 <a href="chutian-scholar-WTU.pdf"><img  src="icone9-pdf.jpeg" HEIGHT=15 WIDTH=25 alt="*">Chutian-scholar</a>
+	</li>
+
+	<li> <b>Chine :</b> un mois au Nonlinear Complex Systems Lab., Wuhan (WTU), Chine, novembre 2012</li>
+
+	<li> <b>Chine :</b> un mois au Nonlinear Complex Systems Lab., Wuhan (WTU), Chine, Octobre 2011</li>
+
+	<li> <b>Canada :</b> un mois au laboratoire de maths de Waterloo Ontario Canada, juillet 2010</li>
+
+	<li> <b>Tunisie :</b> deux semaines à l'Ecole polytechnoique, Tunis, mai <b>2008</b>, novembre 
+	<b>2009</b>, novembre <b>2010</b>  (Enseignant dans le Master d'Ingénierie Mathématique 
+	de l'Ecole Polytechnique de Tunisie entre 2008 et 2010, 16h de cours par an sur la théorie des bifurcations)</li>
+
+	<li> <b>Hong Kong :</b> un mois  à City university of Honk Kong (20 avril - 20 mai 2007, Research Fellow),</li>
+   
+	<li> <b> Chine :</b> deux semaines  à Shandong University, Jinan, Chine, 07-21 juin 2007</li>
+ 
+	<li>...</li>
+ 
+	<li> <b> USA : </b> un mois à college Park,  Maryland, USA, invité par C. Grebogi "Chaos groupe"</li>
+	 
+	<li>   <b> ... </b>  </li>
+	
+	
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="seminaires"></a>  <FONT COLOR=white FONT SIZE=4>Récents seminaires invité 
+      ou Keynote Conf. </FONT></span></h2>
+      <p align="justify"> 
+	 <ul>
+	 
+	 
+	 	 
+	 	
+	 	 
+	 	  
+	 	
+	 	  
+	 <li>    
+	  <a href="https://ersi.sciencesconf.org/resource/page/id/2"><b><FONT COLOR=brown> ERSI'2025 :
+	    </FONT>   
+	                  https://ersi.sciencesconf.org/?lang=en</b></a>,    
+ <b> Keynote speaker</b>,  exposé plénier à  
+ International Congress on Education, Research, Science and Innovation :  Advances in Mathematics and Didactics:
+Connecting Theory and Multidisciplinary Applications, 
+ElJadida, Morocco, November 27-28, 2025. 
+  </li> 
+ 
+   
+	 	  
+	 <li>    
+	  <a href="https://icmdsai25.sciencesconf.org/resource/page/id/3"><b><FONT COLOR=brown>ICMDSAI’2025  :
+	    </FONT>   
+	                   https://icmdsai25.sciencesconf.org/?lang=en</b></a>,    
+ <b> Keynote speaker</b>,  exposé plénier à  The first International Conference on Mathematics, 
+Data Science and Artificial Intelligence, Mohammedia, Morocco, November 28, 2025. 
+  </li> 
+ 
+	 	  
+	 	  
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  <li>     (Non mis à jour) :</li> 
+	 
+		 
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  
+	 <li>    
+	  <a href="https://dys-ta.com/keynote_speakers"><b><FONT COLOR=brown>DSTA’2019  :
+	    </FONT>   
+	                   https://dys-ta.com/keynote_speakers</b></a>,    
+ <b> Keynote speaker</b>,  exposé plénier à 
+  International Conference "Dynamical Systems – Theory and Applications" (DSTA)
+ à Lodz, Pologne. Decembre  02- 05, 2019.
+ </li> 
+ 
+ 
+ <li>    
+	  <a href="https://www.um6p.ma/fr/"><b><FONT COLOR=brown>UM6P’2019  :
+	    </FONT>   
+	                  https://www.um6p.ma/fr/</b></a>,    
+ <b> invited talk </b>,   Univ. M6 Polytechnique, Morocco,  July 31, 2019.
+ </li> 
+ 
+ 
+ 
+ 	 <li>    
+	  <a href="https://dys-ta.com/keynote_speakers"><b><FONT COLOR=brown>JIM'2019  :
+	    </FONT>   
+	                   https://sites.google.com/view/jim-2019/accueil</b></a>,    
+ <b> Keynote speaker</b>,  exposé plénier à  la
+1ère édition de la Journée Internationale des Mathématiques, 
+ à Casablanca EHTP, Maroc. mars 27, 2019.
+ </li> 
+  
+ 
+ 
+	<li>    
+	  <a href="https://nonlinear.wtu.edu.cn/Conference.htm"><b><FONT COLOR=brown>WANCSA’2018  :
+	    </FONT>   
+	                    https://nonlinear.wtu.edu.cn/Conference.htm</b></a>,    
+ <b> Keynote speaker</b>,  exposé plénier au Workshop on Advance in Nonlinear Complex Systems
+ and Applications, 
+ à Wuhan, China. June 28 - Jul 03, 2018.
+ </li> 
+ 
+	  
+	<li>    
+	  <a href="https://sites.google.com/view/5thiccds2018/"><b><FONT COLOR=brown>5thICCDS’2018  :
+	    </FONT> https://sites.google.com/view/5thiccds2018/ </b></a>,    
+ <b> Keynote speaker, </b>
+The 5th International Conference on Complex Dynamical Systems in Life Sciences: 
+Modeling and Analysis (5thICCDS’2018), 10-12 May 2018, Aveiro, Portugal. 
+c</li> 
+
+	<li>    
+	  <a href="http://pcfm-ma.iecl.univ-lorraine.fr/conferenciers"><b><FONT COLOR=brown>PCFM'2018  :
+	    </FONT>  
+http://pcfm-ma.iecl.univ-lorraine.fr/conferenciers</b></a>,    
+ <b> Keynote speaker, </b>
+ PREMIER CONGRÈS FRANCO-MAROCAIN DE MATHÉMATIQUES APPLIQUÉES,
+      16 - 20 avril 2018,  Marrakech,  Maroc</li> 
+
+	  
+	<li>    
+	  <a href="http://fpl.ma/M2SE2018/index.html"><b><FONT COLOR=brown>M2SE'2018  :
+	    </FONT>  
+       http://fpl.ma/M2SE2018/index.html</b></a>,    
+ <b> Keynote speaker, </b>
+ Workshop international  
+  « Modélisation et Simulation dans les sciences de l’environnement  », 
+ 23-24 Avril 2018, Larache,   Maroc</li> 
+      
+
+
+
+	<li>  
+	  <a href="http://madev17.univ-perp.fr/index.html"><b><FONT COLOR=brown>MADEV'2017  :
+	    </FONT>  
+http://madev17.univ-perp.fr/index.html</b></a>,   <b> Invited speaker</b>,
+Conférence Internationale : Mathématiques Appliquées à des questions de DEVeloppement.
+  Académie Hassan II des Sciences et Techniques,
+16-19 octobre 2017, Rabat,  Maroc</li> 
+
+
+
+
+	<li>  
+	  <a href="https://sm2ameknes.sciencesconf.org/"><b><FONT COLOR=brown>SM2A'2017  :  </FONT>  
+	https://sm2ameknes.sciencesconf.org/ </b></a>,   <b> Keynote speaker, </b>
+5ème Congrès international de la Société Marocaine de Mathématiques Appliquées, (SM²A), 
+16-18 mars, 2017, Meknès, Maroc</li> 
+
+	
+	 
+	<li>   
+	 <a href="http://iccsa2016.watsci.org/"><b>
+	<FONT COLOR=brown>5th ICCSA </FONT>  
+		http://iccsa2016.watsci.org/</b></a>,   <b> Keynote speaker, </b>,
+		Fifth International Conference "Complex Systems and Applications (ICCSA):
+	  Hunan University of Technology,  
+	  June 27-29, 2016. 
+	 <b>Zhuzhou</b>, China.
+pdf <a href="ICCSA-2016-Zhuzhou-China.pdf"><b> here </b></a>
+</li>
+  
+  
+  
+	
+	 
+	<li>  
+	<b>
+	<FONT COLOR=brown>2016 Workshop RCNS Wuhan</FONT></b>, 
+		  Workshop on Advance in Nolinear Science and its Applications.
+		 RCNS, Wuhan Textile University, China 
+	  May 28-29, 2016. 
+	 Invited Speaker <a href="RCNS-Wuhan-Workshop2016.pdf" ><b> here </b></a>
+</li>
+  
+  
+  
+	  
+	<li>   
+	  <a href="https://sites.google.com/site/imamerrachidia2016/"><b><FONT COLOR=brown>IMAM'2016  :  </FONT>  
+	https://sites.google.com/site/imamerrachidia2016/ </b></a>   <b>
+ 2nd International Meeting  </b>  
+ on Applied Mathematics in Errachidia, May 9-12, 2016	,  Morrocco.
+  Keynote Speaker.
+pdf <a href="IMAM2016-Errachidia.pdf"><b> here </b></a> 
+ </li> 
+
+
+	<li>  
+	 <a href="http://conferences.uaeu.ac.ae/icm/en/">
+     <b><FONT COLOR=brown>    5th ICM  : </FONT></b></a> 
+     Fifth International Conference on Mathematical Sciences, ICM2016. 
+     Department of Mathematical Sciences at the United Arab Emirates University,
+    Al-Ain, UAE,  March 21 - 24, 2016.    
+     Keynote Speaker.
+pdf <a href="ICM-2016-EAU.pdf"><b> here </b></a>
+	</li> 
+ 
+ 
+ 
+	<li> <a href="http://www.ummisco.ird.fr/pdi/spip.php?rubrique47"><b>  <FONT COLOR=brown>UMMISCO'2015   </FONT> </b></a>, 
+"Synchronisation de réseaux neuronaux complexes",  
+	  Réunion annuelle d'UMMISCO (Unité Mixte Interntionale sur la Modélisation Mathématique et Informatique desSystèmes Complexes),        
+04 novembre 2015, IRD-Bondy, Paris, France. 
+</li>
+
+
+	<li> <a href="http://www.chaos-fractal.cn/2015/2015/index-2015.html"><b>
+	<FONT COLOR=brown>8th IWCFTA </FONT>  
+		http://www.chaos-fractal.cn/2015/2015/index-2015.html </b></a>, 
+	"International Workshop on ChaosFractals Theories and Applications", Harbin, Heilongjiang, China :   
+29th, Aug. - 1st, Sep. 2015, <b>Harbin</b>, China.
+ Keynote Speaker.
+pdf <a href="IWCFTA-2015.pdf"><b> here </b></a>
+</li>
+  
+  
+	<li>  
+<a href="http://www-math.sp2mi.univ-poitiers.fr/SFBT2015/en/index.shtml"><b>
+	<FONT COLOR=brown>35th SFBT </FONT>   </b></a>, 
+	"Attracteur et synchronisation de réseaux neuronaux complexes
+de systèmes de réaction-diffusion de type FitzHugh-Nagumo", 
+	Invited speaker at SFBT  2015, 
+	35th Congress of the French Theoretical Biology Society 
+22–25 June 2015, <b>Poitiers</b> France.
+ Invited Speaker.
+pdf <a href="35th-SFBT-2015.pdf"><b> here </b></a>
+</li>
+  
+	 
+	<li>  <a href="http://www.amu.ac.in/icmbaa.jsp"> 
+	   <b><FONT COLOR=brown>  ICMBAA'2015  : </FONT></b></a> 
+	Invited speaker,  "Modeling and Dynamics of Predator Prey Systems",   
+	   International Conference on Recent Advances in
+Mathematical Biology, Analysis and Applications,
+4–6 June 2015, <b>Aligarh</b> University, India.
+  Invited Speaker.
+pdf <a href="ICMBAA-2015-Aligarh-India.pdf"><b> here </b></a>
+</li>
+  
+  
+  
+	<li>   <a href="http://www.encgt.ma/tamtam2015/"><b><FONT COLOR=brown>TAMTAM'2015  :  </FONT>  
+       http://www.encgt.ma/tamtam2015/</b></a>
+		 7th colloque sur les Tendances des Applications en Mathématiques 
+       Tunisie Algérie Maroc,   04 - 08 Mai 2015, Tanger, Morocco.
+        Keynote Speaker.    
+pdf <a href="TAMTAM-2015.pdf"><b> here </b></a>
+   </li> 
+  
+	 
+	<li> <a href="http://cdss2014.org/"><b><FONT COLOR=brown>CDSS2014  :  </FONT>  
+		http://cdss2014.org/ </b></a>, 
+		 "Modeling in Epidemiology", 
+	keynote speaker  
+november 24-26, 2014, <b>Ankara</b>, Turkey    
+</li>
+ 
+	 
+	<li> "Complex Dynamical Networks, Synchronization and Topology Identification", 
+	Invited seminar,      
+may 2014, Shanghai Jiao Tong University: SJTU, (Cplx-Syst Lab.), <b> Shanghai</b>, China,    
+</li>
+	
+	
+	<li>  <a href="https://sites.google.com/site/msctlemcen13/"><b> <FONT COLOR=brown> EMSC'2013   </FONT>  </b></a>, 
+	Two  <b>invited plenary talks</b>, one on "Complex systems" another on the analysis and modeling in "Epidemiology", 
+	at
+	 École: Modélisation des Systèmes Complexes, 03-05 Décembre 2013,      
+Tlemcen, Algeria 
+</li>
+	 
+	<li> <a href="http://www.ummisco.ird.fr/pdi/spip.php?rubrique47"><b>  <FONT COLOR=brown>COMMISCO'2013   </FONT> </b></a>, 
+	 "Epidemiology, Modeling, Dynamics and multi-patch Mobility", 
+	 <b>invited plenary talk</b> at Commisco'2013, 
+	 COnférence sur la Modélisation Mathématique et Informatique desSystèmes Complexes,        
+20-22 novembre 2013, IRD-Bondy, Paris, France,  pdf <a href="Commisco-2013.pdf"><b> ici </b></a>
+ et <a href="commisco-2013.jpg"><b> ici </b></a>, 
+</li>
+	
+	 
+	<li>   <a href="http://www.ummisco.ird.fr/sfbt/"><b> <FONT COLOR=brown> SFBT'2013   </FONT>  </b></a>, 
+	"The chikungunya disease: Modeling, Dynamics, Control and Mobility", 
+	 <b>invited plenary talk</b> at SFBT'2013, 
+	4ème conférence internationale de la SFBT, "Dynamique des populations, des épidémies 
+	et des ressources renouvelables en Afrique"
+3-5 juin 2013, Dakar - Sénégal,  pdf <a href="Conference-SFBT-Dakar2013.pdf"><b> ici </b></a>
+</li>
+	
+	 
+	<li> "Topology Identification and Synchronization in Complex Dynamical Networks, Application to Neuronal Systems", 
+		Invited seminar,   Wuhan (<b>WTU</b>), China, november 2012 </li>
+	
+	
+	<li> "The chikungunya disease: Modeling, vector-transmission dynamics and control", 
+		Invited seminar,   Wuhan (<b>WTU</b>), China, november 2012 </li>
+	
+	
+	<li>  <a href="http://science.cup.edu.cn/mathweb/6icdsa/Eorganization.asp?id=20"><b> <FONT COLOR=brown> ICIHDSA 6   </FONT>  </b></a>, 
+	"Topology identification and cluster synchronization in complex Dynamical Systems",
+	Invited plenary talk in 
+		 June 28-30, 2012,     Beijing, China</li> 
+
+	<li>  	<a href="http://litis.univ-lehavre.fr/~bertelle/jsccst2012/index.html"><b>  <FONT COLOR=brown> JSC-CST'2012   </FONT> </b></a>
+	"Réseaux complexes et dynamique de systèmes biologiques", 
+		Invited speaker,
+           Journées "Systèmes Complexes", <b>Cité des Sciences de Tunis</b>, Tunisie,  25 avril 2012 </li>
+
+
+	<li> "Complex Systems, Neuronal Interaction Networks and Synchronization",  	Invited seminar,   
+	Wuhan (<b>WTU</b>), Chine, Octobre 2011 </li>
+
+	<li> "Diffusive Dynamics and  Travelling-waves for Predator-preys Models", 
+		Invited seminar,   Wuhan (<b>HUST</b>), Chine, Octobre 2011 </li>
+
+	<li>"Synchronisation, complexité et émergence dans des problèmes en neuroscience", 	Invited seminar,   
+	LIPN, Université <b>Paris 13</b>, Villetaneuse, France, 08 juillet 2011</li>
+
+	<li> "Dynamique de modèles proie-prédateur avec diffusion",  
+	plenary talk,
+	3rd journée de la Fédération de Recherche Normandie-Mathématiques <b>LeHavre</b>, 9 juin 2011.</li>
+
+	<li> "Complexité, synchronisation et dynamique de réseaux d'interaction de modèles neuronaux", 	Invited seminar,   
+	Ecole polytechnique de <b> Tunis</b>, novembre 2010</li>
+
+	<li> "Predator-Prey Dynamics", 	Invited seminar,   
+	Ecole polytechnique de <b>Tunis</b>, Mai 2009.</li>
+
+	<li> "Travelling wave solutions for a class of Predator-Prey models",  	Invited seminar,   on the memory of 
+	L. Forest, INSA  <b>Rouen</b>, juin 2009</li>
+
+	<li> Predator-Prey Dynamics International Workshop-School, Chaos and Dynamics in Biological 
+	Networks, May 5 - 9, 2008, Institut d'Etudes Scientifiques, Cargèse, Corsica-France.
+
+	<li> "Predator-Prey Dynamics", 
+	Invited plenary speaker, 
+	3ème Workshop E.D.A. - E.D.O 
+	May 24-29, 2008, <b>Mostaganem</b>.</li>
+
+  	<li>   <a href="http://www.watam.org/iccsa2007/iccsa07.html"><b> <FONT COLOR=brown>  ICCSA'2007   </FONT>  </b></a>,
+  	"Self Organization and Emergent Properties in Natural and  Artificial Complex Systems", <b>Plenary 
+	talk</b> in
+ The 2nd International Conference on Complex Systems and Applications --Modeling, 
+	Control & Simulationns  June 8-10, 2007,  <b>Jinan, China</b>.</li>
+
+	<li> "Delay and Partial Differential Equations in Species Dynamics"
+	Invited Seminary at : Polytechnic University of <b>Hong Kong</b>, May 04, 2007.</li>
+
+	<li> Ordinary, Delay and Partial Differential Equations in predator-prey dynamics 
+	(Modeling, Stability, Bifurcations and Chaos)  Invited seminar at : Academy of Mathematics and 
+	Systems Science, Chinese Academy of Sciences, <b>Bejing</b> May 24, 2007.</li>
+
+	<li> "Complex Emergent Properties and Chaos (de-)synchronization",
+Invites Talk, 	
+	 1eres journnées Scientifiques 
+	Euro-mediteranéenes, Seminaire en l'honneur du Prof L.O. Chua, mis docteur Honoris-Causae
+	<b>Toulon</b>, 15 septembre 2006.</li>
+
+	<li> "Chaos, Attracteurs Etranges et Synchronisation", 	Invited seminar,    <b>Strasbourg</b>, juin 2005, au LSIIT
+	UMR-7005.</li>
+
+	 
+	<li> ... </li>
+	<li>     </li>
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+           
+	</ul>
+      </p>
+    </td>
+ </tr>	
+ 
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="organisation"></a>  <FONT COLOR=white FONT SIZE=4>(Co-)Organisateur 
+      de conférences (ou workshops ou écoles) </FONT> </span></h2>
+      <p align="justify"> 
+	 <ul> 
+	   
+	 
+	 
+<li>   
+	  <a href="https://dysyx2025.sciencesconf.org/"><b><FONT COLOR=brown>DySyX'2025 :
+	    </FONT> 
+	   https://dysyx2025.sciencesconf.org/</b></a>   <b>
+       Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications :        DySyX’2025,  May 22-23, 2025, Faculty of Sciences Kénitra, Morocco
+</b>   
+</li> 
+
+
+	 	
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  <li>     (Non mis à jour) :</li> 
+	 
+		 
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  
+
+<li>   
+	  <a href="https://bit.ly/dysyx2022"><b><FONT COLOR=brown>DySyX'2022  :
+	    </FONT> 
+	    https://bit.ly/dysyx2022</b></a>   <b>
+       Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications :        DySyX’2022,  May 12, 2022, Faculty of Sciences Kénitra, Morocco
+</b>   
+</li> 
+
+
+<li>    
+	  <a href="http://lmah.univ-lehavre.fr/~ambrosio/BDD2021.html"><b><FONT COLOR=brown>BDD'2021  :
+	    </FONT>  
+http://lmah.univ-lehavre.fr/~ambrosio/BDD2021.html</b></a>   <b>
+10th workshop on Dynamical Systems with Applications to Biolog:  
+e-Workshop Bio Dynamics Days ' 2021 : May 27 - July 1st, 2021. 
+</b>   
+</li> 
+ 
+ 
+<li>      
+	  <a href="http://lmah.univ-lehavre.fr/~ambrosio/BDD2020.html"><b><FONT COLOR=brown>BDD'2020  :
+	    </FONT>  
+http://lmah.univ-lehavre.fr/~ambrosio/BDD2020.html</b></a>   <b>
+10th workshop on Dynamical Systems with Applications to Biolog:  
+e-Workshop Bio Dynamics Days ' 2020 : June 04 - June 25, 2020. 
+</b>   
+</li> 
+ 
+ 
+	   
+	    
+	    
+	  <li>    
+	     <a href="https://xterm2019.sciencesconf.org/"><b><FONT COLOR=brown>XTERM'2019  :
+	    </FONT>  
+        https://xterm2019.sciencesconf.org/ </b></a>   <b>
+       systèmes compleXes, intelligence Territoriale et Mobilité, Conférence internationale, 
+      </b>        (XTERM'2019 ),       
+      26-28 juin 2019 Le Havre Normandie,  France</li> 
+
+
+	     
+
+	<li> 
+	  <a href="http://lmah.univ-lehavre.fr/~alaoui/WANCSA/WANCSA-2017.html"><b><FONT COLOR=brown>WANCSA'2017  :
+	    </FONT>  
+      http://lmah.univ-lehavre.fr/~alaoui/WANCSA/WANCSA-2017.html </b></a>   <b>
+      Workshop on Advance in Nonlinear Complex Systems and Applications 
+      </b>  (WANCSA'2017 ), 
+       5-7 Juillet, 2017, Le Havre, Normandie,  France</li> 
+
+  
+	  
+	 <li>  	 
+<a href="http://litis.univ-lehavre.fr/~bertelle/dnest16/index.html"> <b>
+	  <FONT COLOR=brown> DNEST'2016  :  </FONT> 
+    http://litis.univ-lehavre.fr/~bertelle/dnest16/index.html  </b></a>.     
+ Satellite Workshop 
+Dynamic Networks and Smart Territory - Simulation, Control and Self-Organization 
+within   <a href="http://www.ccs2016.org/"> <b>  CCS'2016 </b></a>  International conf.   
+Beurs Van Berlage, Amsterdam, The Netherlands
+19-22 September 2016.  
+ </li>
+
+
+	<li>    
+	  <a href="http://www.cosylis.org/iccds2016/"><b><FONT COLOR=brown>ICCDS'2016  :  </FONT>  
+		http://www.cosylis.org/iccds2016/ </b></a>   <b>4th International Conference</b> 
+		 on Complex Dynamical Systems : analysis and computational in life sciences. 
+October, 26-28, 2016 
+University UIZ Agadir,  Morrocco.</li> 
+
+
+ 	 <li>   
+ 	  <a href="http://lmah.univ-lehavre.fr/~alaoui/NeXDays-2015.html"><b> 
+               <FONT COLOR=brown>  NexDays'2015  : </FONT>  </b></a> 
+               Journées "Réseaux et Systèmes Complexes", 
+28-30 avril 2015,  Université UIZ Agadir, Maroc.
+     </li> 
+                	                         	
+
+ <li>   
+	 <a href="http://iccsa2014.univ-lehavre.fr/"> <b>
+	<FONT COLOR=brown> ICCSA'2014  : </FONT> 
+    http://iccsa2014.univ-lehavre.fr/</b></a>. 
+	<b>Co-general chair</b>,  June 23-26, 2014, 
+	University of Le Havre, Normandie, France. </li>
+	
+	
+	
+ 	 <li> 
+ 	  <a href="http://lmah.univ-lehavre.fr/~alaoui/SlowFast-DynBif2014.html"><b> 
+               <FONT COLOR=brown>  SlowFast&Bifurcations'2014  : </FONT>  </b></a> 
+               Slow-Fast Dynamics and Bifurcations in Dynamical Systems 
+				Mathematical Methods and Applications - 2014. A special session
+               within CSNDD'2014, 20 Mai 2014, Agadir, Morroco.
+               See also
+ <a href="CALL-for-PAPERS-Session-SlowFastBifurc-CSNDD2014.pdf"> Here</a>.
+                </li> 
+               
+	
+	
+	<li> 
+	  <a href="http://www.csndd.org/csndd2014/"><b><FONT COLOR=brown>CSNDD'2014  :  </FONT>  
+		http://www.csndd.org/csndd2014/  </b></a> membre du International Organizing Committee 
+		et du Advisory board de <b>International Conference</b> on Structural Nonlinear Dynamics 
+		and Diagnostics, Agadir, <may 19 - May 21, 2014, Morrocco.</li> 
+
+		
+
+<li>  
+      <a href="http://lmah.univ-lehavre.fr/~alaoui/CCSNSO-2013.html">     <b> <FONT COLOR=brown>
+               CCSNSO'2013 : </FONT> http://lmah.univ-lehavre.fr/~alaoui/CCSNSO-2013.html </b></a>
+               Control of Complex Systems, Networks and Self-Organization.  San Luis Potosi, Mexico, Mexique
+                August 27, 2013</li> 
+
+
+
+      <li>  
+      <a href="http://lmah.univ-lehavre.fr/~alaoui/BDD-2013.html">     <b> <FONT COLOR=brown>
+               BDD'2013 : </FONT> http://lmah.univ-lehavre.fr/~alaoui/BDD-2013.html </b></a>
+               Bio-Dynamics-Day'2013, Mathematics with Applications to Neuroscience, May 16, 2013, 
+               Le Havre, Normandy, France </li> 
+
+<li>   
+ 		<a href="http://litis.univ-lehavre.fr/~bertelle/stan2013/"><b><FONT COLOR=brown>
+		STAN'2013 : </FONT> 
+		http://litis.univ-lehavre.fr/~bertelle/stan2013/ </b></a> 
+		Smart Territory and Networks 
+        satellite Workshop
+		within ECCS'13,  Barcelona,  September 18, 2013,    Spain. </li>
+		             
+                          
+
+	  <li>   
+		<a href="https://www.coria.fr/dycoec/spip.php?article184"><b><FONT COLOR=brown>
+		DYCOEC'2012</FONT>
+		https://www.coria.fr/dycoec/spip.php?article184</b></a>  
+		Journées de DYCOEC : GDR n° 2984,
+		Biologie, Medecine et Systèmes Complexes,
+		26-28 Novembre 2012, au CORIA - Rouen, France</li>
+
+	<li>   
+ 		<a href="http://litis.univ-lehavre.fr/~bertelle/somc2012/"><b><FONT COLOR=brown>
+		SOMC'2012 : </FONT> 
+		http://litis.univ-lehavre.fr/~bertelle/somc2012/ </b></a> 
+		Self-Organization, Management and Control,  satellite Workshop
+		within ECCS'12,  Bruxelles,  September 05-09, 2012, Belgium. </li>
+
+
+      <li>   
+      <a href="http://lmah.univ-lehavre.fr/~alaoui/BDD-2012.html">     <b> <FONT COLOR=brown>
+               BDD'2012 : </FONT> http://lmah.univ-lehavre.fr/~alaoui/BDD-2012.html </b></a>
+               Bio-Dynamics-Day'2012, Mathematics with Applications to Life Sciences, May 10, 2012, 
+               Le Havre, Normandy, France </li> 
+               
+
+
+	<li>  <a href="http://www.csndd.org/"><b><FONT COLOR=brown>CSNDD'2012  :  </FONT>  
+		http://www.csndd.org/  </b></a> membre du International Organizing Committee 
+		et du Advisory board de <b>International Conference</b> on Structural Nonlinear Dynamics 
+		and Diagnostics, Marrakech, April 30 - May 02, 2012, Morrocco.</li> 
+
+	<li> <a href="http://lmah.univ-lehavre.fr/~alaoui/CsNs2012.html">     <b> <FONT COLOR=brown>
+               CsNs'12 : </FONT> http://lmah.univ-lehavre.fr/~alaoui/CsNs2012.html </b></a> 
+		Complex Systems, Networks and Synchronization, a special 
+               session within CSNDD'2012, Marrakech, April 30 - May 02, 2012, Morrocco. </li> 
+
+
+ 	<li> <a HREF="http://litis.univ-lehavre.fr/~bertelle/epnacs2011/">  <b><FONT COLOR=brown>EPNACS'2011 :  
+		</FONT> http://litis.univ-lehavre.fr/~bertelle/epnacs2011/ </b></a> 
+		satellite workshop within the ECCS 11th European conf., September 15, 2011, Vienna, Austria. </li> 
+
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/epnacs2010/"> <b><FONT COLOR=brown> EPNACS'2010 : 	
+	      </FONT>  http://litis.univ-lehavre.fr/~bertelle/epnacs2010/  </b></a> 
+		satellite workshop within the ECCS 10th European conf., September 15-16, 2010, 
+		Lisbonn, Portugal.</li>
+
+	<li> <a href="http://litis.univ-lehavre.fr/iccsaPeople/planning/"> <b>
+	<FONT COLOR=brown> ICCSA'2009  : </FONT> 
+	http://litis.univ-lehavre.fr/iccsaPeople/planning/  </b></a> 	 
+	<b>Co-general chair </b> de la conférence internationale ICCSA'2009,  29 Juin - 2 juillet 2009, 
+	Université du Havre, France, (<b>190 participants</b>). 
+	(Voir aussi
+	<a href="http://litis.univ-lehavre.fr/~bertelle/iccsa2009/iccsa2009.html"> <b>
+	<FONT COLOR=brown> Ici : </FONT>  
+	http://litis.univ-lehavre.fr/~bertelle/iccsa2009/iccsa2009.html  </b></a>).
+	<FONT COLOR=green> Un petit bilan  se trouve </FONT> 
+	<a href="http://lmah.univ-lehavre.fr/~alaoui/bilan-Succinct-ICCSA2009-vf.pdf"> ICI</a>.
+	 </li>
+	
+	<li> <a href="http://litis.univ-lehavre.fr/~bertelle/cope2009.html"> <b>
+	<FONT COLOR=brown> CoPe'2009  et CoPe'2010 : </FONT> 
+ 	http://litis.univ-lehavre.fr/~bertelle/cope2009.html</b></a> 
+		<b>Ecoles thématiques</b> -Complexité Plurielle-  24-31 janvier 2009 et 23-30 janvier 2010
+		à Valmeinier (Savoie), France.</li>
+
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/macis2.html"> <b><FONT COLOR=brown> 
+	MACIS'2008 : </FONT> http://litis.univ-lehavre.fr/~bertelle/macis2.html </b></a> 
+		Satellite workshop Modeling and Analysing Complex Interacting Systems 
+		July 23-24, 2008, Al-Balqa Applied University, Salt, Jordan.</li>
+
+	<li>  <a HREF="http://lmah.univ-lehavre.fr/~alaoui/complexDynamicsDay01Fev08.pdf"> <b><FONT COLOR=brown> 
+	D-Day'2008 : </FONT>http://lmah.univ-lehavre.fr/~alaoui/complexDynamicsDay01Fev08.pdf </b></a> 
+		 Complexity and Dynamics Day, 01 fevrier 2008, Le Havre, France.</li>
+ 
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/epnacs2007.html"> <b><FONT COLOR=brown> 
+	EPNACS'2007 : </FONT> http://litis.univ-lehavre.fr/~bertelle/epnacs2007.html </b></a> 
+		 Satellite workshop  within ECCS'07, October 1-5, 2007, 	Dresden, Germany.</li>
+ 
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/macis.html"> <b><FONT COLOR=brown> 
+	MACIS'2007 : </FONT> http://litis.univ-lehavre.fr/~bertelle/macis.html </b></a> 
+		Satellite workshop Modeling and Analysing Complex Interacting Systems 
+		Pekin, 22-27 mai 2007, (within ECOSUMMIT conf. :  http://www.ecosummit2007.elsevier.com/program.htm)</li>
+
+	<li>  <a HREF="http://lmah.univ-lehavre.fr/~alaoui/mapps2006.html"> <b><FONT COLOR=brown> 
+	  MAPPS'2006 : </FONT>http://lmah.univ-lehavre.fr/~alaoui/mapps2006.html</b></a>, 
+		A special session Modeling and Analysing of Predator-Prey Systems, Stablility, 
+	Bifurcation, Chaos and 	Complexity, within AIMS'06,  Poitiers, France, june 25-28, 2006  </li>
+
+	<li>  <a HREF="http://www.coria.fr/article.php3?id_article=193"> <b><FONT COLOR=brown> 
+	 Chaos-T-ST'2005 : </FONT>http://www.coria.fr/article.php3?id_article=193</b></a> 
+		 <b>5ème  colloque</b> "chaos temporel et chaos spatio-temporel
+	12-13 décembre 2005,  Rouen, France.</A> </li>   
+
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/epnads05.html"> <b><FONT COLOR=brown> 
+	EPNADS'2005 : </FONT> http://litis.univ-lehavre.fr/~bertelle/epnads05.html </b></a> 
+		 Emergent Properties in Natural and Artificial Dynamical Systems, 
+	Satellite workshop  within ECCS'05,  Paris, 14-18 novembre 2005, France.</A> </li>
+
+	<li>  <a HREF="http://lmah.univ-lehavre.fr/~alaoui/mappsDCDIS.html"> <b><FONT COLOR=brown> 
+	  MAPPS'2005 : </FONT>http://lmah.univ-lehavre.fr/~alaoui/mappsDCDIS.html </b></a> 
+		A special session Modeling and Analysing of Predator-Prey Systems,   
+	within the international.Conf. DCDIS 4th,   27-29 juillet 2005, Guelph-Ontario, Canada.</A> </li>
+
+	<li>  <a HREF="http://litis.univ-lehavre.fr/~bertelle/mcs05.html"> <b><FONT COLOR=brown> 
+	MCS'2005 : </FONT> http://litis.univ-lehavre.fr/~bertelle/mcs05.html.html </b></a> 
+	A satellite workshop within Modeling, Computation and Systems,  IEEE-ICECS 2005,   11-14 december 2005,
+	Gammarth, Tunisia. </A> </li>
+
+	<li>  <a HREF="http://www.coria.fr/article.php3?id\_article=146"> <b><FONT COLOR=brown> 
+	 Chaos-T-ST'2003 : </FONT>http://www.coria.fr/article.php3?id\_article=146</b></a> 
+		 <b>4ème colloque</b> "chaos temporel et chaos spatio-temporel
+	15 et 16 décembre 2003,  Rouen, France.</A> </li>   
+
+	<li>  <a HREF="http://www.coria.fr/article.php3?id_article=193"> <b><FONT COLOR=brown> 
+	 Chaos-T-ST'2001 : </FONT>http://www.coria.fr/article.php3?id_article=193</b></a> 
+		 <b>3ème  colloque</b> "chaos temporel et chaos spatio-temporel
+	24-25 septembre  2001,  Rouen, France.</A> </li>   
+ 
+
+
+	<li>   <b>...</b>  </li>
+	
+	
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center">
+      <h2><span><a name="comites"></a> <FONT COLOR=white FONT SIZE=4>Membre 
+      invité au comité de programme ou au comité scientifique
+ de conférences internationales  :  </FONT></span></h2>
+      <p align="justify"> 
+	 <ul>
+	 
+	  
+	  
+	 	
+	 	 <li>  
+	  </li> 
+	 	  
+	 	  <li>     (Non mis à jour) :</li> 
+	 
+		 
+	 	 <li>  
+	  </li> 
+	   
+	   
+	<li>   <IMG SRC="new.gif" WIDTH=28 HEIGHT=19 LOOP=1> 
+	  <a href="http://nci.seu.edu.cn/wommittee/list.htm"><b><FONT COLOR=brown>IWCFTA-2019  :  </FONT>  
+        http://nci.seu.edu.cn/wommittee/list.htm</b></a>  The  2019  <b>International  Workshop</b>
+       on Complex-systems for Future Technologies and Applications
+	  October 11-13, 2019 ,  Nanjing, China.
+</li> 
+ 
+
+
+	<li>   <IMG SRC="new.gif" WIDTH=28 HEIGHT=19 LOOP=1> 
+	  <a href="https://xterm2019.sciencesconf.org/"><b><FONT COLOR=brown>Xterm-2019 :  </FONT>  
+        https://xterm2019.sciencesconf.org/</b></a>       <b>International  Conference</b>
+       on compleX systems, Territorial intelligence and Mobility
+	 26-28 Jun 2019 Le Havre (Normandie, France)
+</li> 
+  
+
+
+
+	<li>   
+	  <a href="https://icramcs2019.sciencesconf.org/"><b><FONT COLOR=brown>Icramcs-2019 :  </FONT>  
+        https://icramcs2019.sciencesconf.org/</b></a>       <b>International  Conference</b>
+       1st  International Conference on Research in Applied Mathematics and Computer Science
+	 2930 Marsh 2019 , CasaBlanca, Morocco
+</li> 
+  
+
+
+<li></li>
+	 
+	 <li>Not upadated ... </li>
+	 
+	 
+	 <li></li>
+	 
+
+	<li>   
+	  <a href="http://www.icdvc2018.org/"><b><FONT COLOR=brown>ICDVC-2018  :  </FONT>  
+        http://www.icdvc2018.org/</b></a>  The 5th  <b>International  Conference</b>
+       on Dynamics, Vibration and Control, 
+	  July 28-30, 2018 ,  Shijiazhuang, China.
+</li> 
+
+	
+	<li>    
+	  <a href="http://madev17.univ-perp.fr/"><b><FONT COLOR=brown>MADEV'2017  :  </FONT>  
+		http://madev17.univ-perp.fr/  </b></a>   <b>International Conference</b>, 
+- MADEV17 -,
+Mathématiques Appliquées 
+à des questions de DEVeloppement,
+16-19 octobre 2017 . 
+Académie des Sciences et Techniques Hassan II, Rabat. Maroc
+</li> 
+
+
+	
+	<li>    
+	  <a href="http://www.physcon2017.com/scientific-committees"><b><FONT COLOR=brown>PhysCon'2017  :  </FONT>  
+		http://www.physcon2017.com/scientific-committees</b></a>  The 8th  <b>International Scientific Conference</b>
+      on Physics and Control.
+ University of Firenze,   Italy,   17-19th  July, 2017. 
+</li> 
+
+ 
+	<li>  
+	  <a href="https://sm2ameknes.sciencesconf.org/"><b><FONT COLOR=brown>SM2A'2017  :  </FONT>  
+	https://sm2ameknes.sciencesconf.org/ </b></a>   <b> Keynote speaker, </b>
+5ème Congrès international de la Société Marocaine de Mathématiques Appliquées, (SM²A), 
+16-18 mars, 2017, Meknès, Maroc</li> 
+ 
+	
+	<li>     
+	  <a href="http://www.cosylis.org/iccds2016/"><b><FONT COLOR=brown>ICCDS'2016  :  </FONT>  
+		http://www.cosylis.org/iccds2016/  </b></a>   <b>4th International Conference</b> 
+		 on Complex Dynamical Systems : analysis and computational in life sciences. 
+26-28 october 2016 
+University UIZ Agadir,  Morrocco.</li> 
+
+
+	<li> 
+	 <a href="http://conferences.uaeu.ac.ae/icm/en/">
+     <b><FONT COLOR=brown>    5th ICM  : </FONT></b></a> 
+     Fifth International Conference on Mathematical Sciences, ICM2016. 
+     Department of Mathematical Sciences at the United Arab Emirates University,
+    Al-Ain, UAE,  March 21 - 24, 2016.    
+pdf <a href=" icm2016_last_poster_3update.pdf"><b> here </b></a>
+	</li> 
+ 
+
+
+
+	<li>    
+	 <a href="http://www.chaos-fractal.cn/2015/2015/index-2015.html">
+     <b><FONT COLOR=brown>    8th IWCFTA  : </FONT></b></a> 
+International Workshop on Chaos-Fractals Theories and Applications
+Harbin, Heilongjiang, 29th, Aug. - 1st, Sep. 2015, China.
+	</li> 
+	
+
+	 
+	<li>   <a href="http://www.amu.ac.in/icmbaa.jsp"><b><FONT COLOR=brown>ICMBAA'2015  :  </FONT>  
+          http://www.amu.ac.in/icmbaa.jsp  </b></a>
+		 membre of the International Advisory Committee  for
+International Conference on Recent Advances in Mathematical	Biology, Analysis and Applications,	 
+	  4-6 june, 2015, Aligarh (AMU) India
+   </li> 
+
+
+
+	 
+	<li>   <a href="http://www.encgt.ma/tamtam2015/"><b><FONT COLOR=brown>TAMTAM'2015  :  </FONT>  
+       http://www.encgt.ma/tamtam2015/</b></a>
+		 membre of the Scientific Committee  for 7eme colloque sur les Tendances des Applications en Mathématiques 
+       Tunisie Algérie Maroc,   04 - 08 Mai 2015, Tanger, Morocco
+   </li> 
+
+
+
+	
+ 	 <li>   
+ 	  <a href="http://lmah.univ-lehavre.fr/~alaoui/NeXDays-2015.html"><b> 
+               <FONT COLOR=brown>  NexDays'2015  : </FONT>  </b></a> 
+               Journées "Réseaux et Systèmes Complexes", 
+28-30 avril 2015,  Université UIZ Agadir, Maroc.
+                </li> 
+                	                         
+	
+	
+
+
+	 
+	<li>   <a href="http://physcon2015.itu.edu.tr/"><b><FONT COLOR=brown>PhysCon'2015  :  </FONT>  
+       http://physcon2015.itu.edu.tr/		     </b></a>
+		 membre of the International Program Committee  for
+		 7th International Scientific Conference on Physics and Control,  19-22 August, 2015, Istanbul, Turkey
+   </li> 
+	 
+	 
+	 
+
+	<li>   <a href="http://cdss2014.org/"><b><FONT COLOR=brown>CDSS2014  :  </FONT>  
+		http://cdss2014.org/       </b></a>
+		 membre of the scientific committee  for
+	  the 3rd International Conference on Complex Dynamical Systems and Their Applications:
+		 New Mathematical Concepts and Applications in Life Sciences, 24-26 November, 2014, Ankara, Turkey.</li> 
+	 
+
+	 
+
+	<li>   <a href="http://www.wccs14.org/"><b><FONT COLOR=brown>WCCS'2014  :  </FONT>  
+		http://www.wccs14.org  </b></a> membre of the advisory board for
+		 <b>the 2nd World Conference</b> on Complex Systems , 
+	November 10-13, 2014, Agadir, Morrocco.</li> 
+	 
+
+ 
+<li><a href="http://icdvc2014.org/index.asp"><b><FONT COLOR=brown>ICDVC-2014 :  </FONT>
+	http://icdvc2014.org/index.asp   </b></a>
+	The 4th International Conf. on Dynamics, Vibration and Control
+	23-25 August 2014, Shanghai, China.</li>
+
+
+<li><a href="http://icce-2014.org/"><b><FONT COLOR=brown>ICCE-2014 :  </FONT>
+	http://icce-2014.org   </b></a> member of the Technical Program Committee for the 
+	Special Session on Information Hiding and Security in Communications: 
+	Recent Developments, 
+	The 5th International Conf. on comm.and electr.,
+	30th july - 1stAugust 2014, DaNang, Vitenam</li>
+
+
+
+	<li>   <a href="http://www.csndd.org/csndd2014/"><b><FONT COLOR=brown>CSNDD'2014  :  </FONT>  
+		http://www.csndd.org/csndd2014  </b></a> membre du International Organizing Committee 
+		et du Advisory board de <b>International Conference</b> on Structural Nonlinear Dynamics 
+		and Diagnostics,  May 19-21, 2014, Agadir, Morrocco.</li> 
+
+
+<li>  <a href="https://sites.google.com/site/msctlemcen13/"><b><FONT COLOR=brown>EMSC'2013  :  </FONT>  
+	 </b></a>, 
+	 membre du comité scientifique de l'école: Modélisation des Systèmes Complexes, 03-05 Décembre 2013,      
+Tlemcen, Algeria.</li> 
+
+
+
+	<li>  <a href="http://science.cup.edu.cn/mathweb/6icdsa/"><b><FONT COLOR=brown>ICIHDSA-6'2012:</FONT>  
+		http://science.cup.edu.cn/mathweb/6icdsa/</b></a> 
+		The 6th International Conference on Impulsive and  Hybrid Dynamical Systems and Applications, 
+		 June 28-30, 2012,     Beijing, China.</li> 
+
+	<li>  <a href="http://is3c2012.ncuteecs.org/"><b><FONT COLOR=brown>IS3C'2012 :  </FONT>  
+		http://is3c2012.ncuteecs.org</b></a> International Symposium on Computer, 
+               Consumer and Control - IEEE, Taichung, June 4-6 2012,  Taiwan.</li> 
+
+	<li>   <a href="http://www.csndd.org/"><b><FONT COLOR=brown>CSNDD'2012  :  </FONT>  
+		http://www.csndd.org/  </b></a> membre du International Organizing Committee 
+		et du Advisory board de <b>International Conference</b> on Structural Nonlinear Dynamics 
+		and Diagnostics, Marrakech, April 30 - May 02, 2012, Morrocco.</li> 
+	 
+	<li> <a href="http://www.ee.cityu.edu.hk/~cccn/5.htm/"><b><FONT COLOR=brown>APWCCS'2010 :  </FONT>  
+	http://www.ee.cityu.edu.hk/~cccn/5.htm</b></a>,
+	The 5th Asia-Pacific Workshop on Chaos Control and Synchronization,
+ 	October 29-30, 2010, Kunming, Yunnan, China.</li>
+  
+	<li><a href="http://saa.zju.edu.cn/icdvc2010/ "><b><FONT COLOR=brown>ICDVC'2010 :  </FONT>
+	http://saa.zju.edu.cn/icdvc2010/ </b></a>  (see also
+	 <a href="ICDVC2010.pdf">   HERE</a>) 
+	The third International Conf. on Dynamics, Vibration and Control
+	12-14 May 2010, Hangzhou, China.</li>
+
+	<li>  <a href="http://www.dacya.ucm.es/jlrisco/SCSC10/"><b><FONT COLOR=brown>SCSC'2010 :  </FONT>  
+		http://www.dacya.ucm.es/jlrisco/SCSC10/</b></a> 
+	Conference  Modeling and Simulation, 
+	11-14 july, 2010, Ottawa, canada.</li>
+
+	<li>  <a href="http://www-lsp.ujf-grenoble.fr/equipe/dyfcom/ismail/ecm09/"><b><FONT COLOR=brown>
+		ECM'2009 :  </FONT>  
+		http://www-lsp.ujf-grenoble.fr/equipe/dyfcom/ismail/ecm09/</b></a> 
+	ou ici :  http://www.euro-math-soc.eu/node/250, 
+	International Conference of Microfluidics and Complex flow, November 05-06, 2009,
+	Polytechnic School of Tunis, Tunisia.</li>
+
+
+	<li>  <a href="http://www.eurosis.org/cms/?q=node/796"><b><FONT COLOR=brown>ESM'2008:  </FONT>  
+		http://www.eurosis.org/cms/?q=node/796</b></a> European Simulation and Modelling Conference,
+	October 27-29, 2008, Le Havre, France.</li> 
+
+
+	<li>  <a href="http://www.sss-nonlinear.org/webs/pc.htm"><b><FONT COLOR=brown>NSA'2007 :  </FONT>  
+		http://www.sss-nonlinear.org/webs/pc.htm</b></a> 
+	(see also <a href="NSA-2007.pdf">   HERE</a>), 
+	International Technical Advisory Committee, The Third Shanghai International
+	Symposium, on Nonlinear Sciences and Applications, NSA'07, June 6-10, 2007
+         Fudan University, Shanghai – Zhejiang University, Hangzhou, China </li>
+
+	
+	<li>  <a href="http://www.eurosis.org/cms/index.php?q=node/218"><b><FONT COLOR=brown>ESM'2007 :  </FONT>  
+		http://www.eurosis.org/cms/index.php?q=node/218</b></a>
+	October 22-24, 2007, Westin Dragonara Hotel, St.Julian's, Malta.</li>
+
+	<li><a href="http://www.ecosummit2007.elsevier.com/index.htm"><b><FONT COLOR=brown>EcoSummit'2007 
+	:  </FONT> http://www.ecosummit2007.elsevier.com/index.htm </b></a>  
+	(see also <a href="...pdf">   HERE</a>) 
+	(see also http://www.conferencealerts.com/seeconf.mv?q=ca1a8a68  or
+	http://sustainabilityscience.org/content.html?contentid=1227)
+	 Ecological Complexity and Sustainability, 22-27 may 2007, Beijing, China.</li>
+
+
+	<li><a href="http://www.wseas.org/conferences/2007/canada/mcbc/session1.htm"><b><FONT COLOR=brown>MCBC'2007 
+	:  </FONT> http://www.wseas.org/conferences/2007/canada/mcbc/session1.htm </b></a>  
+	(see also <a href="MCBC-2007.pdf">   HERE</a>), 
+	 Mathematical Modeling and Computer Simulations of Nonlinear Dynamical Systems 
+	in Biology and Chemistry, witin 8th WSEAS International Conf. June 19-21, Vancouver, Canada.</li>
+
+	
+
+	<li>  <a href="http://www.univ-reims.fr/chaos06/"><b> <FONT COLOR=brown>CHAOS'2006 :  </FONT>
+	 http://www.univ-reims.fr/chaos06/ </b></a>  
+	(see also <a href="http://helios.univ-reims.fr/Labos/LAM/chaos06/ipc.html">   HERE</a>)
+	Membre du comité international de la conférence internationale  (invité par l'IFAC) CHAOS 06,
+   	June 28 - 30, 2006, Reims, France. </A></li>
+
+	<li><a href="http://gm.insa-rouen.fr/~fpu50/"><b><FONT COLOR=brown>FPU+50
+	:  </FONT> http://gm.insa-rouen.fr/~fpu50/</b></a>  
+	(see also <a href="....pdf">   HERE</a>), 
+	Membre invité du comité régional d'organisation  de la conférence internationale,
+	   Nonlinear Waves 50 Years after Ferli-Pasta-Ulam, June 21-25, 2005,Rouen, France.</A> </li>
+
+	
+
+	<li><a href="http://www.math.uwaterloo.ca/~xzliu/dcdis04/dcdisconf04/dcdisconf05.html "><b>
+	<FONT COLOR=brown>DCDIS'2005 :  </FONT>
+	http://www.math.uwaterloo.ca/~xzliu/dcdis04/dcdisconf04/dcdisconf05.html </b></a>  (see also
+	 <a href="announcement-ICDVC-2010.pdf">   HERE</a>)
+ 	4th   DCDIS International Conference on
+	Engineering Applications and Computational Algorithms, July 27-29, 2005,
+	Guelph, Ontario, Canada.  </A></li>
+  
+<li><a href="http://faculty.kfupm.edu.sa/math/akca/Conference%202004.htm"><b>
+	<FONT COLOR=brown>DSA'2004 :  </FONT>
+	http://faculty.kfupm.edu.sa/math/akca/Conference%202004.htm</b></a>  (see also
+	 <a href="announcement-ICDVC-2010.pdf">   HERE</a>)
+  	 Conférence internationale Dynamical Systems and Applications,
+   	July 05-10,  2004, Antalya -   Pamukkale (Hierapolis), Turkey.</A></li>
+
+
+
+	<li>   <b>...</b>  </li>
+	
+	
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+	
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="cooperation"></a> <FONT COLOR=white FONT SIZE=4> Coopérati<img SRC="globe.gif" HEIGHT=25 WIDTH=25 ALT="*" ></img>ns Scientifiques </FONT></span>
+     	</h2>
+	<p align="justify"> 
+	Entre 1990  et maintenant j'ai collaboré avec différents chercheurs :
+
+	<ul>   
+
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Shanghai - CHINA</a>,
+ 	with  Dr. Yichao ZHANG,   Dept C.Sc.Tech., Tongji Univ.  Shanghai. </p>
+	
+	
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Changsha - CHINA</a>,
+ 	with  Dr. Junchan ZHAO, and Dr. Yunhua Liao,  Dept Math. Normal Univ. Changsha   </p>
+	
+	
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html">  INDE</a>,
+	with  Pr. Argha Mondal, Depart. Applied Mathematics,   Kalkota, INDIA.</p>
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Dhanbad - INDE</a>,
+	with  Pr. Ranjit K. Upadhyay, Depart. Applied Mathematics,  Indian School of Mines, Dhanbad,
+Jharkhand, INDIA.</p>
+
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Wuhan - CHINA</a>,
+ 	with Prof. J. LIU,  Dr. Junchan ZHAO  et al.,   Center  NonLinear systems and Complex Networks, 
+	WTU, Wuhan Textile Univ, China. </p>
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Wuhan - CHINA</a>,
+ 	with Prof. Xiaoqun Wu
+School of Mathematics and Statistics,
+Wuhan University, Hubei,430072, China. </p>
+
+ 
+	<p><img SRC="redball.gif" ALT="*" > <a href="cooper_HongKong.html"> HongKong - CHINA</a>,
+	 with Prof. Gunarong CHEN,  Center  for Chaos Complex and Networks, 
+	   City University of Hong Kong. </p>
+
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Jinhu.html"> Beijing - CHINA</a>, with Prof. Jinhu LÜ
+	Institute of Systems Science Academy of Mathematics 
+	and Systems Science Chinese Academy of Sciences, Beijing, China</p>
+
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Roorke - INDE</a>,
+	with  Prof. Gakkhar S.,    Depart. Math.  IIT- Roorke. </p>
+
+
+
+
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Mexico </a>,
+	with  Pr. Genaro Martinez,  Depart. Departamento de Ciencias e Ingeniería 
+de la Computación, Instituto Politécnico Nacional,  Mexico.
+Membre de l'institut : http://www.comunidad.escom.ipn.mx/ALIROB/Participants.html
+</p>
+
+	<p>  <img SRC="redball.gif" ALT="*" > <a href="Aconstruire.html"> Agadir/Kentira - MOROCCO</a>,
+ 	with  Pr. R. YAFIA,        Ibn Zohr University,            Agadir , puis Univ Ibn-Tofail Kenitra       </p>
+
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Jinhu.html"> Waterloo-Ontario  - CANADA</a>,
+	with Prof. Xinzhi LIU, Department of Applied Mathematics,
+	Faculty of Mathematics	University of Waterloo, Canada </p>
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Kiev.html"> Kiev - UKRAINIA</a>, 
+	with Prof. A. Sharkovskii, National Academy of Sciences, Inst. maths., Kiev, Ukraine.</p>
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Romania.html"> Bucarest - ROMANIA</a>, 
+	with Prof. M.F. Danca, 
+Romanian Institute of Science and Technology, Cluj-Napoca, Romania</p>
+		  
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Maryland.html"> Maryland - USA</a>,
+	 with Prof. Celso GREBOGI, Chaos groupe of College Park,  University of Maryland, USA. </p>
+	 
+	 <p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Odibat.html"> Amman- JORDAN</a>,  with Pr. Z. Odibat,
+	Faculty of Sciences, AlBalqa,  Jordan</p> 
+ 
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Yamapi.html"> Douala  and Yaoundé - CAMEROUN</a>,  with 
+	Pr. Samuel BOWONG ,  Pr. Jean-Jules TEWA,    Pr. René YAMAPI</p>
+  
+ 
+<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Algeria.html"> Tlemcen - ALGERIA</a>,  with Pr. Ali Moussaoui,
+	Faculté des Sciences, Tlemcen, Algérie</p> 
+ 
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_SanAntonio.html"> San Antonio, Texas - USA</a>, with Prof. Saber ELAIDI,
+	Trinity, university, Texas, San-Antonio, USA</p>
+
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Nindjin.html"> Abidjan - COTE D'IVOIRE</a>, with Prof. Aka F. NINDJIN, 
+	Mathematical Department, Faculty of Sciences University of Abidjan,
+	Ivory-Costa</p>
+
+	<p><img SRC="redball.gif" ALT="*" >
+	<a href="cooper_Nindjin.html"> CALIFORNIA RIVERSIDE - USA</a>,  with Prof. Larry LI,
+	University of California, Riverside,  USA. voir
+	<a href="http://www.elsevier.com/locate/ecocom"> Ecological complexity.</a></p>
+   
+
+	<p><img SRC="redball.gif" ALT="*" ><a href="cooper_Nice.html">
+	 NICE-S-A - FRANCE</a>,  with Prof . René LOZI, Labo. Math., Université de Nice,  France. </p>
+ 
+	<p><img SRC="redball.gif" ALT="*" ><a href="cooper_Rouen.html">
+ 	ROUEN - FRANCE</a>, with Prof. Christophe LETELLIER, Labo.   CORIA, Université ode Rouen, France.</p>
+ 
+ 	<p><img SRC="redball.gif" ALT="*" ><a href="cooper_entpe_Lyon.html">
+	LYON - FRANCE</a>,   with Dr. Jean-Marc MALASOMA, ENTPE, Labo. syst. dyn.  France.</p>
+
+	<p><img SRC="redball.gif" ALT="*" > ...
+	 
+	
+   <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2>  <span><a name="rayonnement"></a>  <FONT COLOR=white FONT SIZE=4> Rayonnement Scientifique & Distinctions </FONT> </span>  
+     	</h2>
+	<p align="justify"> 
+	 
+	<ul>
+	
+	<li>  <b>PEDR</b>  septembre 2018 - septembre 2022  (PEDR : Prime d'Encadrement Doctoral et de Recherche) </li> 
+	<li>  <b>PEDR</b>  septembre 2014 - septembre 2018 </li>
+	<li>  <b>PES</b>  septembre 2010 - septembre 2014 (notes: A,A,A,A), (PES : Prime d'Excellence Scientifique)</li>
+	 <li>  <b>PEDR</b>  septembre 2006 - septembre 2010  </li>
+	 <li>  <b>PEDR</b>  septembre 2001 - septembre 2005 </li>
+	 
+ 
+	
+	<li>  ...  </li>
+	
+ 
+	<li>  <b>Officier dans l'ordre des Palmes Académiques</b>   (promotion 14 juillet 2018)	 </li> 
+	
+	<li>  <b>Chevalier dans l'ordre des Palmes Académiques</b>   (promotion 14 Juillet 2012)	 </li> 
+	
+	
+	<li>  ...  </li>
+	
+	 
+	<li> Co-Fondateur et co-coordinateur scientifique de 
+	l'<a href="http://iscn.univ-lehavre.fr/">ISCN</a>, Institut des Systèmes Complexes de Normandie</li>
+	
+	
+	
+	
+<li>   <b>Membre</b> du CA de <a href="http://physcon.ru/officials">IPACS</a> (International Physics and Control Society), pour le volet contrôle et synchronization, élu en septembre 2013,
+
+  </li>
+  
+	
+<li>   <b>Membre</b> du CA de la SFBT (Société Francophone de Biologie Théorique), réélu en  2017,
+<a href="https://sfbt.math.cnrs.fr/fr/sfbt/org/index.html">SFBT</a>
+Chargé des relations avec les établissements de l'enseignement supérieur et de la recherche.
+  </li>
+
+
+
+
+<li>   <b>Membre</b> nommé du CS de l'unité mixte internationale 
+<a href="http://www.ummisco.ird.fr/">UMMISCO</a>,
+  (Unité de Modélisation Mathématique et Informatique de Systèmes COmplexes, placée sous la double tutelle IRD-Paris6) </li>
+  
+  
+
+	<li> Co-Editeur en chef de la revue interntionale <a href="http://www.watam.org/JNSA/"> JNSA</a>, 
+	Journal of Nonlinear Systems end Applications</li>
+	
+	
+
+<li> Editeur associé</b> pour la revue internationale 
+	<a href="http://www.worldscinet.com/ijbc/"> IJBC</a></li>
+	
+	<li> Editeur-associé de  6 journaux internationaux (voir activité 
+	éditoriale plus haut)   </li>
+
+
+	<li>  <b>Reviewer</b>  pour divers Journaux scientifiques : 
+		J. Math. Analysis and Applic. ; 
+		 NonLinear Analysis Real World and applications ;
+		 International Journal of Bifurcation and chaos ;  
+		 IMA Journal ; 
+                 Dynamics of Continuous Discrete Systems B ;
+		 Dynamics of Continuous Discrete and Impulsive Systems A and B ; 
+		 Theoretical Population Biology ; 
+		MCM ;  CNSNS ;   IIJSS ;  NonLinear Dynamics ;  Chaos.S.F ;  
+		Applied Math.Let ; Applied Math. Computation ; 
+		 Journal of the Franklin Institute ; 
+	 	 Physics Letters A ; Physica-A et D ; 
+		 IEEE Trans. Circ. Syst.-I Fundamental Theory and Applications ; ... 
+		 
+ 		 </li>
+	
+
+	<li>   Récentes invitations à l'international de 15 jours à 2 mois : au moins  12 fois ,   
+	<p>En particulier, j'ai été chercheur invité dans les universités étrangères suivantes :  
+-	university de Maryland College-Park (États-Unis) ; 
+-	université de Waterloo-Ontario (Canada)  ; 
+-	université City-University de Hong-Kong Chine ; 
+-	Institut de mathématiques Acad.Sc. à Pekin Chine ; 
+-	Univeristé de Wuhan WTU (Chine) à 3 reprises, (Professeur	Honoraire : Chutian-Scholar),	2011-14  ;
+-	Université de Hunan-Chine à Changsha puis à Zhouzhou (Professeur	Honoraire	à	 Changsha-Hunan	Chine,	31-05-2016	à	30-05-2019) ; 
+-	École polytechnique de Tunis Tunisie, à 3 reprises ; 
+-	Université de Tlemecen, ...
+-	 
+</li>
+
+	<li>   Récents séminaires invités à l'étranger : au moins 25 fois , (Chine, HongKong, 
+	USA, Canada, Tunisie, Maroc, Jordanie, Sénégal, ...)  </li>
+	<li>   Récents séminaires invités en France : plus de 20 fois, (Paris-IRD, Paris 13, Rouen, Strasbourg, Toulon, Nice, Bordeaux  ...)  </li>
+	<li> (Co-)organisateur de conférences internationales ou satellites workshops : plus d'une 15aine </li>
+	<li> Membre invité de comités scientifiques ou de programmes de conférences 
+	internationales : environ 50 </li>
+
+ 	 
+	<li>   Expertises  pour la <b>NSF</b> (National Science Fundation, USA) : 1 </li>
+	<li>   Expertises  pour l'<b>ANR</b> (Agence Nationale de la Recherche, France) : 2  </li>
+	<li>   Expertises  pour la <b>RGC</b> (Research Grants Council of Hong Kong) :  2 </li>
+
+	
+	
+   <li>	 Expert et	membre	du	comité	d'évaluation	du	NWO	(Netherlands	Foundation	of	Scientific	Research),	
+pour le	programme	Complexité	&	Auto-organisation,	2017-…  </li>
+
+   <li>  Expert et	membre	du	comité	d'évaluation	 de  	la	 Research	Foundation
+Flanders (FWO),	organisme	public 	belge	de	financement	de	la	recherche. 		 </li>
+ 
+
+
+	<li> Membre du GdR Dynamique et Contrôle d'Ensembles Complexes, 
+	DYCOEC : GDR n° 2489, CNRS   </li>
+	<li>   Membre de plusieurs sociétés ou réseaux mathématiques ou de dynamique nonLinéaire.</li>
+	<li>   <b>...</b>  </li>
+	
+	
+	<li>  <b>Officier dans l'ordre des Palmes Académiques</b>   (promotion 14 juillet 2018)	 </li> 
+	
+	<li>  <b>Chevalier dans l'ordre des Palmes Académiques</b>   (promotion Juillet 2012)	 </li> 
+	
+	
+	<li>  ...  </li>
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+                   
+	
+	</ul>
+
+
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="responsabilites"></a> 
+	<FONT COLOR=white FONT SIZE=4>  Responsabilités Scientifiques Majeures </FONT></span>
+     	</h2>
+	<p align="justify"> 
+	Entre 1990  et maintenant j'ai eu a assuré les responsabilités Scientifiques :
+
+	<ul>
+
+	<li> Co-fondateur et co-coordinateur scientifique de l'ISCN (Institut des Systèmes 
+	Complexes de Normandie), voir  <a HREF="http://iscn.univ-lehavre.fr/"> http://isc-n.fr/ </a> 
+	 </li>
+
+<li> Directeur  du  Laboratoire de Mathématiques Appliquées de l'université 
+ 	du Havre (LMAH), depuis le 14 février 2013,  EA 3821 (laboratoire appartenant  à la  FR-CNRS-3335), 
+ 	voir http://lmah.univ-lehavre.fr/ </li>
+ 	
+	<li> Responsable de l'équipe  Systèmes dynamiques et applications au vivant, 
+	au sein du Laboratoire de Mathématiques Appliquées de l'université 
+ 	du Havre (LMAH),  depuis sa création en  2000, voir http://lmah.univ-lehavre.fr/ </li>
+
+	<li>  Co-montage avec Cyrille Bertelle d'un FEDER, accordé en 2010 (RISC : Réseaux
+	d'Intéraction et Systèmes Complexes), avec 10 laboratoires du Havre et de Rouen.
+	Financement global 2.M.keuros.</li>
+
+ 	<li> Coordinateur scientifique  du contrat CPER,
+  	''Modélisation de la complexité des écosystèmes estuariens'' (2008-2010), 
+ 	Financement : CPER Haute-Normandie, Grand Réseau de Recherche TL-TI, Participants :
+  	Université du Havre (LMAH et LITIS),
+  	Dotation globale : 19 kEuros en 2008, 23Keuros en 2009, somme non encore 
+	connue pour 2010. </li>
+  
+	<li> Coordinateur scientifique  du contrat CPER  Modélisation de la panique 
+	et modèles SIR (2008-2010)  avec  Cyrille Bertelle, 
+  	Financement : CPER Haute-Normandie, Grand Réseau de Recherche SER, Participants :
+   	Université du Havre (LITIS et LMAH), Dotation globale : 8,5 kEuros en 2008, 
+	10kEuros en 2009 et 16ke en 2010. </li>
+
+	
+	<li>  ... </li>
+
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="encadrement"></a> 
+	<FONT COLOR=white FONT SIZE=4>Encadrement de doctorants et Post-doc</FONT></span>
+     	</h2>
+	<p align="justify"> 
+	<ul>
+
+
+
+
+<li>
+	<b>Post-Docs</b> :
+	<ul>
+
+<li></li>
+
+
+
+
+<li>
+<b>co-Encadrement du stage post-doc  </b> de  Kamal Khalil (from Morocco), ~1 an : jannvier 2021 - janvier 2022. 
+(Financement : ANR),   
+<p></p>
+</li>  
+
+
+
+<li>
+<b>Encadrement du stage post-doc  </b> de  ROY Parimita (from India), ~1 an : octobre 2018 - decembre 2019. 
+(Financement : FEDER - Xterm),   
+<p></p>
+</li>  
+
+
+<li>
+<b>Encadrement du stage post-doc  </b> de  LIAO Yunhua (from Changsha T.U.), ~1 an : octobre 2018 - juillet 2018. 
+(Financement : FEDER - Xterm),   
+<p></p>
+</li>  
+
+ 
+
+
+<li>
+<b>Encadrement du stage post-doc  </b> de Qunjiao (Judy) ZHANG (from Wuhan T.U.), 1 an : janvier 2013 - decembre 2013. 
+(Financement : FEDER - RISC),   co-encadrée avec C.Bertelle. 
+<br>Sujet :  Identification de Paramètres pour les Systèmes Complexes et Applications (Parameters Identification for Complex Systems and Applications).
+<br> 
+<p></p>
+</li>  
+
+
+
+
+<li>
+<b>Encadrement du stage post-doc  </b>  Yichao Zhang (from London and Shanghai), 1 an et 9 mois : décembre 2012 - septembre 2014. (Financement : Région Haute-Normandie),
+en collaboration avec C.Bertelle.
+<br>Sujet :   Dynamique et auto-organisation des réseaux d'interactions, (Dynamic and self-organization for Interaction networks).
+<br> 
+<p></p>
+
+</li>  
+
+
+
+	<li>
+	<b>Encadrement  du stage post-doc </b> de ZHAO Junchan, 1 an : janvier 2011 - janvier 2012, 
+	en collaboration avec C.Bertelle. (Financement : FEDER - RISC).
+	Sujet : Réseaux d'intéraction et Systèmes Complexes, Application en Biologie.
+	</li>
+
+<li>
+</li>
+
+</ul>
+
+<li>
+	<b>Doctorants</b> :
+	<ul>
+
+
+	<li>
+	<b>Encadrement</b>  de la thèse de  Irmand Mikiela, début janvier 2020,  
+	<br> Sujet : 	Modélisation mathématique en épidémiologie, (EDP et systèmes dynamiques).
+	  <FONT COLOR=brown>   	<br> Thèse soutenue le 09/11/2023 </FONT>  
+	</li>
+	
+	<li>
+	<b>Encadrement</b>  de la thèse de  Loïs Naudin, début septembre 2018, 
+	<br> Sujet : Analyse et synchronisation de systèmes complexes modélisant desréseaux de neurones, Application : "le vers  C-Elegans". 
+	  <FONT COLOR=brown>   	<br> Thèse soutenue, 08 décembre 2021 </FONT>  
+	</li>
+  
+	<li>
+	<b>Encadrement</b>  de la thèse de  G. Cantin, début octobre 2015, Soutenance le 12 octobre 2018.
+	<br> Sujet : Systèmes dynamiques et réseaux couplés.   
+	Modélisation mathématique des comportements humains lors
+de catastrophes : Stabilité et Bifurcations
+	  <FONT COLOR=brown>   	<br> Thèse soutenue en 2018</FONT>  
+	</li>
+	
+	
+	<li>
+	<b>Encadrement</b>  de la thèse de  M. Maama, début octobre 2015, Soutenance en 2020.
+	<br> Sujet : Analyse mathématique de réseaux de systèmes EDP&EDP couplés, Application neuroscience et vision V1.
+	 (financement : 	allocation MESR).
+	  <FONT COLOR=brown>   	<br> Thèse soutenue en 2020 </FONT>  
+	</li>
+	
+	
+	<li>
+	<b>Encadrement</b>  de la thèse de  A. Balti, début octobre 2013, 
+	<br> Sujet : Analyse mathématique de réseaux de systèmes EDP couplés, de type Hodgkin-Huxley.
+	 (financement : 	allocation MESR).
+<br> Thèse soutenue le  08 décembre 2016     
+   <FONT COLOR=brown>
+	<br> Actuellement <b>ATER</b> à l'université du Havre-Normandie </FONT>  </li>
+	
+	
+	<li><b>co-Encadrement </b> (à 50%) de la thèse de W. Abid, début janvier 2012,  <br> Sujet : Analyse numérique et étude de traveling waves de modèles proies-prédateurs avec réaction-diffusion,(financement : cotutelle avec l'EPT et l'ENIT de Tunis).   	
+  <br> Thèse soutenue el  04 février 2016     
+   <FONT COLOR=brown>
+	<br> Actuellement <b>Assistant</b> à l'université, Tunisie.  </FONT>  </li>
+
+
+	<li>
+	<b>Encadrement</b>  de la thèse de  PHAN Van Long Em, début septembre 2012,
+	<br> Sujet : Analyse mathématique de réseaux de systèmes EDP couplés de type Fitzhugh-Nagumo, application en biologie.
+	 (financement : 	allocation MESR). 	 
+	Soutenue au Havre le 09 décembre 2015.	
+	  <FONT COLOR=brown>   	
+	<br> Actuellement <b>Maître de conférences</b> à l'université, Vietnam.  </FONT>  	
+		</li>
+		
+
+
+	<li>
+	<b>Tuteur </b> HdR de  Jean-Jules Tewa, 
+	<br>Sujet : Modélisation et Analyse Mathématique des Systèmes Complexes : Epidémiologie, Immunologie et Ecologie.
+	Soutenue au Havre le 10 novembre 2015.  
+	<br> <FONT COLOR=brown>    
+	 <b>Prof. Univ., Ecole Polytechnique</b> 
+	de Yaoundé I, Cameroun.</FONT> 
+	</li>  
+
+
+	<li>
+	<b>Encadrement</b>  de la thèse de Moulay D.,
+	<br> Sujet : Modélisation et analyse mathématique de problèmes en epidémiologie
+	(EDO, métapopulation et réseaux, ED à retard, contrôle), cas du chikungunya. (financement : 
+	allocation régionale).
+	Soutenue au Havre le 26 septembre 2011.
+		  <FONT COLOR=brown>   
+	<br> Actuellement <b>Post-Doc</b> à l'université de Cambridge, UK.  </FONT>  	
+	</li>
+
+	<li>
+	<b>Encadrement </b> de l'HdR de Yamapi René
+	<br>Sujet : Contribution à  l'étude des phénomènes non-linéaires: Applications aux 
+	systèmes électromécaniques et biologiques,        
+	Soutenue au Havre le 06 novembre 2010. 
+	  <FONT COLOR=brown>   
+	<br>Actuellement <b>Mcf-HDR</b> à l'université 
+	de Douala, Cameroun.  </FONT>  	
+	</li>  
+
+	<li>
+	<b>Encadrement </b> de la thèse d'état (HdR Côte d'Ivoire) de  Nindjin  A.F.
+	<br>Financement : soutien de l'Unesco et de l'EGIDE pour les visites au Havre.  
+	<br>Sujet : Analyse de systèmes dynamiques à <b>retard</b> modélisant des problèmes de 
+	dynamique des populations.
+	Soutenue à Abidjan le 15 janvier 2010.  
+	<br> <FONT COLOR=brown>    Promu depuis <b>Prof. Univ.</b> à l'université 
+	d'Abidjan, Côte d'Ivoire.</FONT> 
+	</li>  
+
+	<li>
+	<b>Encadrement</b>  de la thèse de Corson N., (à 100%),
+	<br> Sujet :  Etude de modèles en neurophysiologie, systèmes dynamiques et synchronisation. 
+	<br>financement : allocation du ministère). Soutenue  au Havre le 02 décembre 2009,   
+	<br> <FONT COLOR=brown>    Actuellement <b>Mcf</b> à  l'université du Havre.</FONT> 
+	</li>
+
+	<li>
+	<b>Encadrement</b> de la thèse de Camara B. A., (à 100%),
+	<br> Sujet: Sur des modèles proie-prédateur avec <b>diffusion</b> et applications.
+	Soutenue  au Havre le 03 juillet 2009,  
+	<br>financement : bourse Sénégal,  
+	<br> <FONT COLOR=brown>   Actuellement <b>Mcf</b> à  	l'université de Metz. </FONT> 
+	</li>
+
+	<li>
+	<b>Encadrement</b> de la thèse de Derivière S.  (à 100%),
+Soutenue le 13 Décembre 2004, 
+	<br> Financement : allocation 	du ministère. 
+	<br>Sujet: Contribution à l'étude des attracteurs des systèmes dynamiques en
+	dimension finie (Qualifiée en 26ème et en 25ème sections du CNU).     
+	<br>  <FONT COLOR=brown>    Actuellement chercheur à Sherbrooke,  Canada. </FONT> 
+	</li>
+
+	<li>
+	<b>Encadrement</b> de la thèse de Daher O. M.  (à 100%),
+Soutenue le 14 Décembre 2004, (Financement : bourse de 
+	la coopération Française - EGIDE). 
+	<br> Sujet: Etude et Analyse Asymptotique de Certains Systèmes Dynamiques
+	Non-Linéaires : Application à des Systèmes Proie(s)-prédateur(s).
+	(Qualifiée en 26ème section du CNU).     
+	<br>  <FONT COLOR=brown>   Actuellement M.D.O. est  <b>  Mcf </b> à Djibouti. </FONT> 
+	</li>
+
+	<li>
+	<b>Encadrement</b> de la thèse de Deai H. (à 100%),
+ (Financement : bourse du Maroc.  Thèse interrompue pour raison de santé, en fin de 3ème année)
+	<br> Sujet: Sur des problèmes différentiels non réguliers du type Filippov.
+  	Application à des Systèmes Proie(s)-prédateur(s). 
+	</li>
+
+	 
+
+</ul>
+
+	<li>
+	<b>Co-encadrement</b> de quelques  doctorants   en <b>co-tutelle</b> :
+	<ul>
+    	<li>du Sénégal,	</li>	
+		<li>du   Cameroun, 	</li>	
+		<li>	 Thèse de   S.Slimani,   
+		Sujet: Systèmes dynamiques stochastiques et modèles proies-prédateurs avec refuge  </li>
+		
+		<li>	 Thèse  de   A. Sakri,   
+		Sujet:  Systèmes dynamiques stochastiques dans des réseaux d’interactions neuronales  </li>
+		
+	</ul>
+
+	</li>
+	
+	<li>   </li>
+
+	<li>   Encadrement <b>Master 1 et 2 </b>   voir plus bas </li>
+
+
+
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+
+
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="jury"></a> 
+	<FONT COLOR=white FONT SIZE=4> Rapporteur ou jury de Thèses ou HDR </FONT></span>
+     	</h2>
+	<p align="justify"> 
+	
+	<UL>
+
+	
+	<LI>  <b>Rapport d'HDR </b> pour	: </LI>
+	<ul>
+	
+	 
+	   <li>A.Tonnelier  (Grenoble, juin 2019) </li>
+    	<li>  J.M. Ginoux J.M. (Toulon, juin 2008) </li>
+    	<li> F. ElAdnani de (El Jadida, juin 2007)</li>
+	<li> ...  </li> 
+	</ul>
+ 
+	<LI>  <b>Jury d'HDR </b> pour	: </LI>
+	<ul>  
+	
+	    <li>Ramses  Djidjou Demasse (Le Havre, june 2022) </li>
+	    <li>B.Ambrosio  (Le Havre, janvier 2021) </li>
+	     <li>A.Tonnelier  (Grenoble, juin 2019) </li>
+       <li> A. Moussaoui (Le Havre, 01 décembre 2017) </li> 
+    	 <li> J.J. Tewa (Le Havre, 10 novembre 2015) </li> 
+	    <li> L. Nana (Le Havre, 22 novembre 2012) </li> 
+    	<li> R. Yamapi (Le Havre, 10 novembre 2010) </li> 
+    	<li> A. Fulgence Nindjin, (Abidjan, janvier 2009) </li>
+    	<li> J.M. Ginoux  (Toulon, juin 2008) </li>
+    	<li> F. ElAdnani   (ElJadida, juin 2007)</li>
+    	<li> S. Maingot  (Le Havre, 31 mai 2006)</li>
+	<li> ...  </li> 
+	</ul>
+
+
+	<LI>  <b>Rapport  et jury de doctorat </b> pour	: </LI>
+	<ul>  
+	
+	
+	 <li>  Ibtissam BENAMARA,  univ. Med-V, Rabat,   juin 2023 </li>  
+    <li>  Idriss EL FAKKOUSY, univ. Fès, mars 2023 </li> 
+	
+    	 <li>Coura BALDÉ, Univ. Dakar, 02 juillet 2022</li>
+    	 
+        <li> Z.QIAO  (Ecole Centrale, Nantes,  25 Février 2021) </li>  
+        <li> Prashant Pandey, Indian Institute of Technology – Banaras Hindu University, Varanasi, India , 2021    </li> 
+
+       <li> Abdoulaye MENDY  (UCAD, Dakar , Sénégal, fev 2020) </li>  
+       <li> Ahmed AGRICHE  (Kenitra, Maroc, Avril 2020) </li>  
+       <li> Mboya BA NDONG,  Université Cheikh Anta Diop Dakar, Sénégal,  2020   </li>
+       
+       <li>Vijay Kumar Shukla, Indian Institute of Technology – Banaras Hindu University, Varanasi, India , 2019    </li>       
+       <li> Yannick MALONG  (Douala, Cameroun, dec 2019) </li>  
+       <li>Oumar SAGNA  (Nice, dec 2019) </li>  
+       
+       <li>Fernanda SCACIOTA,  (Nice, 02 octobre 2018) </li>
+
+       <li>Siham BASSAID  (Univ. Tlemcen, Février 2017)</li>
+       
+       <li>Misael Melgar Escobar,  (Toulouse, 9 juillet 2016) </li>
+       
+       <li>Sidy LY, Université de Dakar, 2015</li>
+	   <li> A. Ed-Darraz (Marrakech, 20 novembre 2015) </li>
+	   
+	   <li>  	Yi Zhao (Toulon, 12 décembre 2013) </li>
+      <li> M. L. DIAGNE (Mulhouse, 18 novembre 2013) </li>
+		<li> C. Poignard, (Nice, 25  juin 2013) </li>
+		<li> L. Tendeng, (Metz, 23  mai 2013) </li>
+		
+      <li> J. Mintsa Mi Ondo (Grenoble, 29  novembre 2012) </li>
+	   <li> B. Tsanou (Metz, INRIA,   janvier 2012) </li>
+	   
+    	<li> C. Vandermoere (Lille-I,   décembre 2011)</li>
+    	<li> O. Belhamiti (Mostaganem,  mai 2008) </li>
+    	<li> Braham Pal Singh (Roorke India, septembre 2006)</li>
+    	<li> J.M. Ginoux  (Toulon,  novembre 2005)</li>    
+    	<li> R. Yafia  (El Jadidaa,  Janvier 2005)  </li>
+    	<li> R.K. Naji (Roorke India, Avril 2003) </li>
+    	<li> ... </li> 
+	</ul>
+ 
+	<LI>  <b>Jury de doctorat </b> pour	: </LI>
+	<ul>
+	       
+	       
+	        <li>  I. Mikiela, soutenue à LeHavre,  nov. 2023   </li>
+	        <li>   L. Naudin, soutenue à LeHavre, dec 2021  </li>
+	       <li>   M.Maama, soutenue à LeHavre, dec 2020  </li>	        
+	     <li>Nicolas Ratto (Ecole Centrale Lyon,   15 octobre  2020) </li>
+	      <li>    G. Cantin, soutenue à LeHavre, le 12 octobre 2018 </li>      
+	   <li>Imen Khames,  (Rouen, septembre 2018) </li>  
+	   <li>Alexandre Thorel,  (Le Havre, mai 2018) </li>
+       <li>Misael Melgar Escobar,  (Toulouse, 9 juillet 2016) </li>
+		<li> I. ElHarraki  (Meknes, 14 mai  2016) </li>
+	   <li> V.L.E. Phan (Le Havre, 09 décembre 2015) </li>
+	   <li> A. Ed-Darraz (Marrakech, 20 novembre 2015) </li>
+		<li> Yi Zhao (Toulon, 12 décembre 2013) </li>
+	    <li> M. L. DIAGNE (Mulhouse, 18 novembre 2013) </li>
+		<li> C. Poignard, (Nice, 25  juin 2013) </li>
+		<li> L. Tendeng, (Metz, 23  mai 2013) </li>
+	   <li> J. Mintsa Mi Ondo (Grenoble,   29 novembre 2012) </li>
+	   <li> B. Sarels (président du jury, Rouen, INSA,   15 mai 2012) </li>
+	   <li> B. Tsanou (Metz, INRIA,   13 janvier 2012) </li>
+    	<li> C. Vandermoere  (Lille-I,  15 décembre 2011)</li>
+	   <li> D. Moulay (Le Havre, 26 septembre 2011) </li>
+    	<li> N. Corson  (Le Havre, décembre 2009 )</li>
+    	<li>  B.A. Camara  (Le Havre, juillet 2009)</li>
+    	<li>  H. Sidibé (Le Havre, octobre 2009)</li>
+    	<li>  R. Ghnemat R. (Le Havre, juin 2009)</li>
+    	<li>  O. Belhamiti (Mostaghanem, 26 mai 2008) </li>
+    	<li>  A. Vidal (Paris-VI, 02 juillet 2007)</li>
+    	<li>  E. Cherrier, -membre invité- (Nancy, 26 octobre 2006)</li>
+    	<li>  J.M. Ginoux (Toulon, 28 novembre 2005)</li>
+    	<li>  M. Ouriemchi (Le Havre, 09 décembre 2005)</li>
+    	<li>  R. Yafia (El Jadida, 15 Janvier 2005)  </li>
+    	<li>  S. Deriviere (Rouen, 13 Décembre 2004) </li> 
+    	<li>  M. Daher, (Le Havre, 14 Décembre 2004) </li>
+    	<li>  A. Elhaial,  (Le Havre, juin 2000) </li>
+    	<li> ... </li>
+	</ul>
+ 
+  
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+
+	</UL>
+
+      </p>
+    </td>
+ </tr>	
+
+ 
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="master"></a> 
+	<FONT COLOR=white FONT SIZE=4>Encadrement d'étudiants de  Master </FONT></span>
+     	</h2> 
+
+	<UL>
+	non mis à jour
+	<LI> 
+	
+
+	<li>  <img SRC="redball.gif" ALT="*" > <b> Master-2 Recherche</b> </LI>
+	<ul>
+	
+	
+	<li> ...  </li>
+	<li> ...  </li> 
+	
+	<li> Balti A., Mars-juin 2013, (Master recherche MIS),    (co-encadrement avec B. Ambrosio)
+	"Modélisation mathématique et étude de réseaux d’interaction neuronaux"
+	</li>
+	
+	
+	<li> Baudoin G., mars-juin 2013, (Master recherche MIS), 
+	"Techniques spectrales pour les solutions périodiques de systèmes dynamiques couplés",  (co-encadrement avec V. Lanza)
+	</li>
+		
+	
+	<li> Shko Ali, Janvier-septembre 2011, (Master recherche MIS), 
+	"Synchronisation et réseaux d'intéraction",  (co-encadrement avec C. Bertelle)
+	</li>
+
+	<li> Haifa Abdelhak,  janvier - juillet 2008, (Master rechrecher MIASC),
+	"Modélisation des phénomène de panique, approche par des systèmes dynamiques et par des 	
+	modèles individus-centrés", (co-encadrement avec  D.Olivier, C. Bertelle et A. Ayesh) 
+	</li>
+
+	<li> Moulay D.,  janvier - juillet 2007, (Master rechrecher MIASC),
+	"Etude mathémtique de la dynamique de popultions de moustiques et de la 
+	dynamique de propagtion d'arbovirus"
+	</li>
+
+	<li>
+	Corson N.,  janvier - septembre 2006, (Master rechrecher MIASC)
+	"Neurones, modélisation, analyse et synchronisation"
+	</li>
+	<li> Camara B., Janvier-septembre 2005, (Master rechrecher MIASC)
+   `	"Bifurcations et chaos pour certains systèmes complexes en écologie"
+   	</li>
+	<li> Li Qiang., Janvier-septembre 2005,   (Master rechrecher MIASC)
+	(co-encadrement avec un collègue informaticien),
+   	`Modélisation d'organismes dynamiques émergentes dans des écosystèmes'
+	</li>
+	<li>
+	Saint-Pol Y., mars 2004-juillet 2004, `Exposants de Lyapunov et  synchronisation du chaos'
+	</li>
+	<li>
+	Bass P.,  mars 2004-juillet 2004, `Bifurcations, théorème de Shilnikov et solutions homoclines'
+	</li>
+	<li> Elamri J., mars-juillet 2003 (co-encadrement avec un collègue Informaticien), sur la 
+	`synchronisation du chaos (intersection de polygônes) et application à la sécurité de communication'
+	</li>
+	<li>
+	Derivière S., nov. 2000-juillet 2001, `Principe d'invariance uniforme et synchronisation des systèmes différentiels
+	chaotiques' 
+	</li>
+	<li>
+	Daher O.M., avril-septembre 2000,  sur `l'étude de la stabilté globale des  solutions de quelques systèmes 
+	différentiels de IR^3, modélisant des problèmes en dynamique des populations'
+	</li>
+	<li> Seguin S., avril-septembre 1998, sur la 
+	`reconstruction des orbites d'un système dynamique discret'
+	</li>
+	<li> ...  </li>
+	</ul>
+
+	<LI> <img SRC="redball.gif" ALT="*" > <b>Master-2 Pro.</b> 	
+	M2 Ingénierie mathématique AIMAF : Tuteur de  quelques étudiants de dette formation, 
+	un à deux par an, entre 2000 et 2007</LI>
+	<ul>
+	<li> ...  </li>
+	<li> ...  </li> 
+	</ul>
+
+	<LI> <img SRC="redball.gif" ALT="*" ><b> Master-1 </b> : 
+		Chaque année je propose plusieurs sujets  de mémoire de maîtrise (par exemple 5 en 98-99 
+	ou 2 en 99-2000) et j'assure l'encadrement des étudiants (des fois le co-encadrement).     Exemples :  
+	</LI>
+	<ul>
+	<li> ...  </li>
+	<li> Février à juin 2009 : Variétés centrales et formes normales  
+	(Laplace Romain, co-encadré avec N. Corson et N. Verdiere) </li>		
+	<li> Février à juin 2007 : Théorème de Tikhonov et système neuronalde 
+	Hindmarsh-Rose (?)
+	</li>
+	<li> Février à juin 2007 : Des Canards dans les neurones  (Martin-Ménard Solveig)</li>
+	<li> Février à juin 2006 : Etude du système différentiel de Hindmarsh-Rose (?)
+  	</li>
+	<li> Février à juin 2006 : Modeles EDO (ou EDP) sur le Cancer, vu comme 
+	un problème proie-predateur (?)
+  	</li>
+	<li>Février à juin 2006 :  Bifurcations et dynamique complexe du système de Chen (?)
+   	</li>	
+	<li> Février à juin 2005 : Orbites homoclines et théorème de Shilnikov 	(?)
+	</li>
+	<li>Février à juin 2005 : Systèmes Différentielles à second membre discontinus : 
+	Inclusions Différentielles  (Decaens Aline), co-encadré avec M.Cadivel)
+	</li>
+	<li> Février à juin 2004 : Modélisation et étude d'un modèle SIR de 
+	propagation de virus  (?) </li>
+	<li> Février à juin 2004 : Modélisation de porblèmes de maladies inféctieuses 
+	(Hervieu A.S.) </li>
+
+	<li> Février à juin 2003 : Calcul des exposants de Lyapunov pour les systèmes 
+	dynamiques de type Fillipov (?). 
+  	</li>
+	<li> Février à juin 2003 : La théorie des bifurcations (Bass Paul).   	</li>
+
+	<li>  Février à juin 2003 : 
+	Calcul des diagrammes de Bifurcation pour les systèmes dynamiques de type Fillipov (?).
+	</li>
+	<li>  Février à juin 2002 :  Sur les systèmes dynamiques de Filippov (Paumier C.) </li>
+	<li>  Février à juin 2002 : étude de stabilité d'un écosystème à trois 
+	espèces (Blaible Wassim)</li>
+	<li>   Février à juin 2001 : Bifurcations de Hopf et Applications (Thiout Nathalie) </li>
+	<li>   Février à juin 2000 : Systèmes Dynamiques Discrets, Chaos et Bifurcations 
+	(Deiviere Sara)
+	</li>
+	<li>  Février à juin 1999 : étude de l'intéraction ente trois espèces animales, 
+	Etude qualitative (Behotas Anne) </li>
+	<li>  Février à juin 1999 : étude de l'intéraction ente trois espèces animales, 
+	Etude numérique (Martin Richard) </li>
+
+
+	<li>  Février à juin 1999 : étude numérique du système de Waleff (Moignot V. et Lenepveu D.)
+	</li>
+	<li>  Février à juin 1999 :  Méthode des petites pérturbations en EDO et applications (?)
+	</li>
+	<li> ...  </li>
+	</ul>
+
+	<LI>  <img SRC="redball.gif" ALT="*" > <b>Autres </b> 
+	</LI>
+	<ul>
+	<li> Au <b>niveau Licence ou IUT</b> : différents encadrements de stages et
+	projets en L2 (méthodes numériques) ou en 2ème année d'IUT, par exemple :
+	<br> - sur "une interface graphique en langage 'C', sous DOS, orientée utilisateur",
+	<br> - sur  "une interface graphique en langage 'C', sous UNIX" ...
+  	</li>
+	<li> ...  </li>
+	<li> <b>Ingénieurs</b>, Rapporteur  sur des travaux de fin d'étude d'élèves ingénieurs 
+	et participation aux jurys, par exemple à l'ENTPE de Lyon : 
+	<br> - juin 1999, Y. Zahir, `Caractérisation des vibrations non périodiques
+	d'un système dynamique',
+	<br> - juin 2000, G. Veylon, `Chaos minimal dans les systèmes différentils
+	dissipatifs contenant une non-linéarité cubique'.
+	</li>
+	<li> 	... </li>
+	
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+	</ul>
+
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="administration"></a> 
+	<FONT COLOR=white FONT SIZE=4> Responsabilités et Activités Administratives </FONT></span>
+     	</h2>
+	<p align="justify"> 
+	Entre 1990  et maintenant j'ai eu à assurer les responsabilités administratives :
+
+	 <ul>
+	 
+	 <li>  <b>Vice-Président de la Communauté d'Universités et d'établissements (COMUE Caen-LeHavre-Rouen) 
+	 Normandie Université, (et du PRES Normand juste avant) </b>  </li>
+
+	<li>  <b>Vice-Président de l'université du Havre-Normandie </b> chargé de la 
+	Recherche-Valorisation et Etudes Doctorales (conseil scientifique),
+	du 24 Janvier 2007   au 23 mai  2012.	   </li>
+	
+		<li>    <b>Vice-doyen chargé de la recherche </b>de l'UFRST du Havre, 
+	Décembre 1994 à Décembre 1998.  </li>
+
+
+<li> Président du comité de sélection sections 25-26
+ 	du CNU de l'univ. du Havre, en 2009 (un poste Mcf et un poste PU pourvus),  
+ 	en 2010 (3 postes de Mcf  pourvus), Puis en 2011 (2 postes Mcf pourvus) </li>
+
+
+	<li> Vice-président de la commission des spécialistes sections 25-26
+	du CNU de l'univ. du Havre   de 2002 à 2008.  </li>
+
+
+	<li>  Plusieurs fois <b>membre élu du conseil scientifique</b> de l'université, 
+	3 mandats de 4 ans chacun entre 1993 et 2008. Réélu en 2012 </li>
+
+	<li>  <b>Membre élu du conseil d'Administration </b> de l'université, 
+	 entre 2002 et 2006. </li>
+	
+	
+	<li> Montage et Coordination du Master Math-Info, avec C. Bertelle. 
+	Dans le cadre de l'intégration des parcours recherche et professionnel sous 
+	un même diplôme, tout en respectant des formations spécifiques adaptées 
+	au travers de cursus :  18 mois de concertation avec les 40
+  	enseignants-chercheurs en Mathématiques et Informatique de l'Université 
+	du Havre, pour aboutir à ce projet constitué de 44 unités d'enseignement. </li>
+
+ 	<li> Co-Responsable du Master Recherche Math-Info. </li>
+	
+	<li> Montage  en 1995 et Coordination de sept.1996 à sept.2000 de la maîtrise 
+	de mathématiques</li>
+
+  	<li> Montage  en 1993 et Coordination de sept.1994 à sept.1996 de la maîtrise 
+	d'ingénierie mathématique</li>
+
+ 	<li> co-Montage  en 1992 de la licence de mathématiques (avant il n'y avait pas de licence de math. à l'univ. du Havre)</li>
+
+
+	<li> ...</li>
+
+
+	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+
+	</ul>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+
+
+<tr valign="top" align="left">
+    <td colspan="2" align="center"> 
+	<h2><span><a name="pedagogie"></a> 
+	<FONT COLOR=white FONT SIZE=4> Responsabilités et Activités Pédagogiques </FONT></span>
+     	</h2>
+	<p align="justify"> 
+	Entre 1990  et maintenant j'ai eu a assurer les responsabilités ou les cours,TD suivants : 
+
+	<UL>
+ 
+	<LI>  <b> Responsabilités </b> : </LI>
+	<ul>
+	
+	<li>	Coordinateur, depuis septembre 2017,  du nouveau master Mathématiques Appliquées de l'univ. du Havre Normandie (contenant 
+	un parcours de Master-1 et deux parcours de master-2) </li>
+	<li>  Responsable, depuis septembre 2017, du parcours MASC de ce master  (Mathématiques et Analyse des Systèmes Complexes) </li> 
+	
+	<li>	Coordinateur, jusqu'à septembre 2017,   du master MATIS (Math-Info) de l'univ. du Havre (contenant 
+	3 parcours de Master-1 et 4 parcours de master-2) </li>
+	<li>  co-responsable, jusqu'à septembre 2017,   du master recherche MIS   </li> 
+	<li> Création et Montage du master MIASC, avec un collègue inofmaticien, 
+	aujourdhui dit "MATIS", (avec les parcours M1 et M2, math-info) lors du passage au LMD  </li>
+	<li> Création et Montage, pour deux habilitations succéssives, de 
+	la maîtrise de mathématiques </li> 	
+	<li> Création et Montage de la maîtrise d'ingénierie mathématique </li>
+	<li> Création et Montage avec un collègue mathématicien de la licence de maths. </li> 
+	</ul>
+
+	<LI>  <b> Enseignement Niveau Master </b> : </LI>
+	<ul>
+	<li> J'enseigne la moitié du tronc commun  "modélisation mathématique des systèmes 
+	complexes, du master recherche 2, MATIS <li>   
+	<li> J'enseigne l'option  "Bifurcations et dynamique non linéaire"  de ce même master-2 </li>
+	<li>  J'ai enseigné les Méthodes numériques pour le calcul actuariel,   
+        Master 2 Professionnel AIMAF (Ingénierie mathématique en finance et Assurance) </li>	   
+	<li> J'ai enseigné les Méthodes numériques pour la finance,  Master-2 Professionnel AIMAF </li>
+	<li>  Cours et TD d'Equations Différentielles, Maîtrise de mathématiques	 </li>  
+	<li>  Cours et TD d'Analyse numérique matricielle, Maîtrise de mathématiques 	   </li>
+	
+    	<li> ... </li> 
+	</ul>
+ 
+	<LI>  <b> Enseignement Niveau Licence </b> : </LI>
+	<ul>	 
+	<li>  Cours et TD d'Analyse numérique,   Licence 3 de mathématiques </li>
+	<li>  Optimisation,  Licence 3 d'économie (en 1989-90) 	 </li>
+	<li> Méthodes numériques en L2	</li>   
+	<li> Analyse  en L1 </li>
+	<li> Algèbre en L1</li>
+	<li> Informatique, Pascal et language C  en L1-L2</li>
+	<li> Probabilité et Statistique en L1-bio</li>
+	<li>  Analyse en IUT 1 et IUT 2  (dept : GEII)  </li>
+    	<li> ... </li>
+    
+    	
+    	
+
+            <li> <A HREF="#top"> <IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24> Haut de page ... Top</A> </li>
+            
+            
+    	
+    	<li> ... </li>
+    	<li> ... </li>
+    		<li> ... </li>
+     
+	</ul>
+ 
+ 
+	
+	</UL>
+      </p>
+    </td>
+ </tr>	
+
+
+
+
+
+
+
+
+
+
+
+	<UL/>
+      </p>
+    </td>
+ </tr>	
+
+
+</table>
+
+  <p align="justify">
+  </p>											
+</div>
+													 
+		
+<div id="bottom"> 
+	<p><a href="mailto:aziz.alaoui@univ-lehavre.fr">contact. (Auteur: Aziz Alaoui © 1999, Mis à jour le 19 janvier 2012)</a><br>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
+	<a href="http://validator.w3.org/check?uri=referer">xhtml</a>
+
+<p></p>
+<p></p>
+
+<A HREF="#top">
+<IMG SRC="flech-home.gif" ALT="" HEIGHT=30 WIDTH=24>
+Haut de page ... Top</A>
+
+<P><A HREF="http://lmah.univ-lehavre.fr/~alaoui/">
+<IMG SRC="button.return_az.gif" ALT="" HEIGHT=30 WIDTH=30>
+Back to server home page</A>
+
+
+
+
+	<div id="images">
+	<a href="http://www.univ-lehavre.fr"><img src="Logo-Univ-ULHN-LH-et-Normandie.png" width="120" height="60"></a>
+	<a href="http://www.normandie-univ.fr/"><img src="LogoPRES.jpg" width="90" height="50"></a>
+	<a href="http://www.hautenormandie.fr/"><img src="logo-RegionHN.jpg" width="60" height="50"></a> 
+	<a href="http://www.cnrs.fr/"><img src="Logo-cnrs.png" width="80" height="50"></a>
+	<a href="http://normandie.math.cnrs.fr/"><img src="logo-FNM-100-transparent.png" width="80" height="50"></a>
+	<a href="http://lmah.univ-lehavre.fr/"><img src="logo-LMAH-graphe2.png" width="80" height="50"></a>
+	</div>
+</div> 
+
+</body></html>
