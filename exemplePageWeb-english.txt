@@ -1,0 +1,276 @@
+
+	
+
+Welcome to the home page of Linda J. S. Allen at Texas Tech University , Department of Mathematics and Statistics.
+
+de : http://www.math.ttu.edu/~lallen/
+
+Classes, Spring 2011
+
+    * Math 4000.H01, Biomathematics for Undergraduates
+    * Math 3350.016, Higher Mathematics for Engineers and Scientists I
+
+NSF-Funded Project
+
+    * Stochastic Metapopulation Models Applied to Amphibians on the Southern High Plains
+
+Curriculum Vita and Research Interests
+
+    * Vita
+    * Research Interests
+
+Books
+
+    * An Introduction to Stochastic Models with Applications to Biology
+    * An Introduction to Mathematical Biology
+
+Links to Journal Home Pages
+
+    * Discrete and Continuous Dynamical Systems Series B
+    * Journal of Biological Dynamics
+    * Journal of Difference Equations and Applicatons
+    * Journal of Theoretical Biology
+    * Mathematical Biosciences
+    * SIAM Journal on Applied Mathematics
+
+Other Links
+
+    * Society for Mathematical Biology
+    * Mathematical Biosciences Institute, Ohio State U
+
+Back to math home page
+
+
+
+
+
+============
+
+
+
+
+Research Interests
+Linda J.S. Allen
+
+My research interests are in the general areas of mathematical biology and mathematical epidemiology. I have worked with students and colleagues from the Departments of Mathematics and Statistics, Range, Wildlife, and Fisheries Management, Biological Sciences, Agronomy, Horticulture, and Entomology, from TTU Health Sciences Center and The Institute for Environmental and Human Health. We have written more than sixty papers on the development and analysis of deterministic and stochastic models related to endangered water snakes, plant pathosystems, cholla cacti, insect pests and diseases (measles, chickenpox, chlamydia, rabies, hantavirus, and amphibian diseases). I am actively involved in the training and advising of graduate and undergraduate students and in curriculum development in mathematical biology. In addition, I have served or am serving as advisor for 6 Ph.D. dissertations, 24 M.S. or M.A. theses, and 6 undergraduate research projects.
+
+
+
+
+========
+
+
+
+
+
+==========
+
+
+
+
+Vita
+Linda J.S. Allen
+
+Educational Background
+
+    * 1981, Ph.D., Mathematics, University of Tennessee, Knoxville. Advisor: T.G. Hallam.
+    * 1978, M.S., Mathematics, University of Tennessee, Knoxville.
+    * 1975, B.A., Mathematics, College of St. Scholastica, Duluth, Minnesota.
+
+Professional Positions
+
+    * 2006, Long Term Visitor, Mathematical Biosciences Institute, Ohio State U, Jan-April
+    * 1999-present, Adjunct Professor, The Institute for Environmental and Human Health, Texas Tech
+    * 1998-present, Professor, Department of Mathematics and Statistics, Texas Tech
+    * 1991-1998, Associate Professor, Department of Mathematics, Texas Tech
+    * 1985-1991, Assistant Professor, Department of Mathematics, Texas Tech
+    * 1982-1985, Assistant Professor, Department of Mathematics, U of North Carolina at Asheville.
+    * 1981-1982, Visiting Assistant Professor, Department of Mathematics, U of Tennessee, Knoxville.
+    * 1975-1981, Research and Teaching Assistant, Department of Mathematics, U of Tennessee, Knoxville.
+    * 1977, Technical Assistant, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+
+Professional Activities and Memberships
+
+    * Senior Advisory Board, Natural Resource Modeling, 2008-present.
+    * Editorial Board, Journal of Biological Dynamics, 2008-present.
+    * Editorial Board, Journal of Difference Equations and Applications, 2007-present.
+    * Editorial Board, Journal of Theoretical Biology, 2006-present.
+    * Editorial Board, Mathematical Biosciences, 2005-present.
+    * Editorial Board, SIAM Journal of Applied Mathematics, 2007-2010.
+    * Book Review Co-Editor, Journal of Difference Equations and Applications, 2004-2010.
+    * Editorial Board, Discrete and Continuous Dynamical Systems Series B, 2002-2007.
+    * Associate Editor, Journal of Mathematical Systems, Estimation, and Control, 1993-1996; Communicating Editor, 1996-1998.
+    * Scientific Advisory Committee, Mathematical Biosciences Institute, The Ohio State University, 2009-2011.
+    * Member:
+          o Society for Mathematical Biology
+          o Association for Women in Mathematics
+          o International Society of Difference Equations
+          o Mathematical Association of America
+          o Society of Industrial and Applied Mathematics 
+
+Awards and Honors
+
+    * Paul Whitfield Horn Professor, TTU, 2010.
+    * Barnie E. Rushing, Jr. Faculty Distinguished Research Award, TTU, 2007
+    * Taylor & Frances Best Paper Award 2005 for ``SIS epidemic models with multiple pathogen strains'', Journal of Difference Equations and Applications [48]
+    * Alum of the Month, College of St. Scholastica, November 2003.
+    * Outstanding Faculty Mentor, TTU McNair Scholars Program, 1999.
+    * Graduate Professor of the Year, TTU Chapter of SIAM, 1997-1998. 
+
+Selected Grants
+
+   1. NSF, Development and Analysis of Three-Species Epidemic Models. 7/92 - 12/94.
+   2. NSF, Development and Analysis of Models for the Spread and Control of Weeds and Infectious Diseases. Co-P.I.: E. Allen and M. McGinley. 7/96 - 8/00.
+   3. TTU Graduate School Summer Research Awards for Graduate Students, Faculty Investigator in 1988 (Douglas Hallam), 1995 (David Thrasher), and 2004 (Robert McCormack).
+   4. TTU, Interdisciplinary/Multidisciplinary Seed Fund Project, Epidemic Models Applied to the Study of Disease Evolution in Plant Pathosystems. Co-PI: R. Strauss. 1/00-6/01.
+   5. Texas Higher Education Coordinating Board, Advanced Research Program, Occurrence, Frequency, Duration, Size and Spread of Epidemics in Stochastic Structured Models. 01/00-08/02.
+   6. NSF, Dynamics and Evolution of Emerging Diseases with Applications to Amphibians. Co-PI: E. Allen, S. McMurry, M. San Francisco, L. Smith, L. Rollins-Smith. 05/02-06/07.
+   7. NIH, The Impact of Rapid Anthropogenic Land Cover Change in the Chaco and Interior Atlantic Forest in Paraguay on Hantavirus Ecology. PI: C. Jonsson, Co-PI: R. Owen, L. Allen, M. Almiron, Y. Chu, D. Goodin, S. Hutchinson, E. Pontelli, D. Ranjan, S. Tran. 03/04-04/08.
+   8. Texas Higher Education Coordinating Board, ARP, Metapopulation Models for the Playa Lakes of the Southern High Plains. 5/06-5/08.
+   9. NSF, Stochastic Metapopulation Models Applied to Amphibians on the Southern High Plains. Co-PI: E. Allen, S. McMurry, and L. Smith. 9/07-8/10. 
+
+Graduate Work Directed
+
+    * Ph.D. Students
+         1. Jake Kesinger, December 2001.
+         2. Nadarajah Kirupaharan, August 2003.
+         3. Keith Emmert, August 2004.
+         4. Robert McCorma  ... 
+
+    * Master's Students
+         1. Douglas Hallam, MS, December 1988.
+         2. Martha Jones, MA, May 1990.
+         3. Mary Arthur, MA, December 1991.
+         4. D...
+ 
+
+    * Undergraduate Work Directed
+         1. Pam Lockwood, Senior Honors Project, 1993.
+         2. Michael Williams, Senior Honors Project, 1996. Awarded a Mathematical Spectrum Prize for his contribution to Volume 31 of the magazine.
+         3. Ralynn Ernest, Ronald E. McNair Scholar, 1998.
+         4. Billy Duke, Ronald E. McNair Scholar, 2000.
+         5. David Flores, 2000.
+         6. Sherri Wilson, Senior Honors Project, 2001.
+         7. Jennifer Tang, Ronald E. McNair Scholar, 2008. Co-Advisor: E. Allen.
+         8. John Fenske, REU, 2010. 
+
+Books
+
+   1. Allen, L. J. S. An Introduction to Stochastic Processes with Applications to Biology. Prentice Hall. 2003. Second Edition, CRC Press, Taylor & Francis, 2010.
+   2. Allen, L. J. S. An Introduction to Mathematical Biology. Prentice Hall. 2007. 
+
+Book Chapter
+
+      Chapter 3: An Introduction to Stochastic Epidemic Models. Mathematical Epidemiology, Lecture Notes in Mathematics, Vol. 1945, F. Brauer, P. van den Driessche, and J. Wu (Eds.), pp. 81-130, Springer Series (2008). 
+
+Edited Volumes
+
+   1. Difference Equations and Discrete Dynamical Systems. Proceedings of the 9th International Conference. World Scientific Publishing, 2005. L. J. S. Allen, B. Aulbach, S. Elaydi, and R. Sacker (Eds.)
+   2. Special Issue Journal of Biological Dynamics. Proceedings of a Special Session at the American Mathematical Society Meeting,New Orleans, January 2007. Volume 1(4) 2007. L. J. S. Allen, S. R. Jang, and L. Roeger (Eds.)
+
+Journal Publications
+
+   1. Hallam, T. G., L. J. Svoboda (Allen), and T. C. Gard. 1979. Persistence and extinction in three species Lotka-Volterra competitive systems. Mathematical Biosciences, 46: 117-124.
+   2.  
+...
+  81. Erickson, R. A., S. M. Presley, L. J. S. Allen, K. R. Long, and S. B. Cox. 2010. A dengue model with a dynamic Aedes albopictus vector population. Ecological Modelling. 221: 2899-2908.
+
+
+
+
+Referee and Review Activities
+
+   1. Book Reviews
+          * Book Review of Modelling Biological Populations in Space and Time, Cambridge Studies in Mathematical Biology, Cambridge University Press, by Renshaw, Mathematical Biosciences. 127: 123-126 (1995).
+          * Book Review of Mathematics in Population Biology. Princeton University Press, by Horst R. Thieme, SIAM Review. 46: 356-358 (2004).
+          * Book Review of Chaos In Ecology Experimental Nonlinear Dynamics. Academic Press, by Cushing, Constantino, Dennis, Desharnais, and Henson, Journal of Difference Equations and Applications. 13(1): 93-94 (2007).
+          * Book Review of A Course in Mathematical Biology: Quantitative Modeling with Mathematical and Computational Methods by de Vries, Hillen, Lewis, Muller, and Schonfisch. SIAM, Philadelphia, 2006. SIAM Review. 49(2): 329-331 (2007). 
+
+   2. Referee for the following journals:
+          * American Journal of Epidemiology
+          * Applied Mathematics Letters
+          * Communications in Applied Analysis
+          * Computers & Mathematics with Applications
+          * Discrete and Continuous Dynamical Systems-Series B
+          * Ecological Applications
+          * Ecological Modelling
+          * Ecology/Ecological Monographs
+          * IEEE Transactions on Automatic Control
+          * Indian Journal of Pure and Applied Mathematics
+          * International Journal of Mathematics and Mathematical Sciences
+          * Journal of Difference Equations and Applications
+          * Journal of Biological Dynamics
+          * Journal of Biological Systems
+          * Journal of Mathematical Analysis and Applications
+          * Journal of Mathematical Biology
+          * Journal of Theoretical Biology
+          * Mathematical Biosciences
+          * Mathematical Biosciences and Engineering
+          * Mathematical and Computer Modelling
+          * Natural Resource Modeling
+          * Nonlinear Analysis
+          * Rocky Mountain Journal of Mathematics 
+          * Theoretical Population Biology 
+
+   3. Reviewed NSF proposals, 1994-2010.
+   4. NSF Graduate Fellowship Evaluation Panel, 1995, 1996, 1997.
+   5. Reviewed book proposal for Gordon and Breach Publishers, Inc., 1996.
+   6. NSF and NSF/NIH Review Panels 2000-2010.
+   7. CDC Review Panel, 2007.
+   8. Reviewed proposals for the Natural Sciences and Engineering Research Council of Canada of Canada, 2000, 2006-2008.
+   9. NSF Workshop on Quantitative and Integrative Biology, San Diego State University, 2000.
+  10. External Examiner for a Mathematics Ph.D. Dissertation: Makere University, Uganda, 2001; Arizona State University, 2006.
+  11. Reviewer for the Texas Higher Education Coordinating Board, Minority Health Research and Education Grant Program, 2001.
+  12. Expert Evaluator for the Mathematics of Information Technology and Complex Systems of Canada, 2001, 2005, 2006, 2008. 
+
+Invited Seminars, Colloquia and Lecture Series
+
+   1. North Carolina State University, April 1994.
+   2. Trinity University, March 1996.
+   3. New Mexico State University, November 1997.
+   4. Arizona State University, February 1998.
+   5. Baylor University, March 1998.
+   6. University of Tennessee, October 2001.
+   7. Texas Christian University, February 2002.
+   8. University of Louisiana at Lafayette, October 2003.
+   9. Purdue University, November 2004.
+  10. Ohio State University, March 2006.
+  11. Florida Gulf Coast University, March 2007.
+  12. University of Nevada, Las Vegas, November 2007.
+  13. Midwestern University, Wichita Falls, TX, May 2008.
+  14. National Center for Theoretical Sciences of the National Tsing Hua University in Taiwan, An Intensive Course in Stochastic Processes and Stochastic Differential Equations in Mathematical Biology, August 2008.
+  15. University of Texas at Arlington, November 2009.
+  16. Oakland University, March 2010.
+  17. Trinity University, April 2010. 
+
+Professional Conference and Workshop Presentations
+
+   1. SEAS-SIAM Meeting, Columbia, South Carolina, April 1978.
+   2. SEAS-SIAM Meeting, Atlanta, Georgia, April 1981.
+   3. Southeast Mathematical Ecology Conference, Knoxville, Tennessee, April 1984.
+   4. National SIAM Meeting, Tempe, Arizona, October 1985.
+
+  21. Mathematical Theory of Networks and Systems-96. Washington U., St. Louis, Missouri. June 1996.
+  22. 47th Annual Conference on Diseases in Nature Transmissible to Man. Texas Tech U. Health Sciences Center, Lubbock, Texas. June 1997.
+
+  23. MAA Short Course on Epidemiology Modeling, cosponsored by CDC, Atlanta, Georgia. July 31-August 1, 1997.
+
+  59. Workshop: Stochastic and deterministic spatial modeling in population dynamics. American Institute of Mathematics, Palo Alto, California, May 4-8, 2009. Invited.
+  60. 2009 Summer School on The Mathematics of Invasions in Ecology and Epidemiology, Banff Centre, Alberta, Canada, May 10-17, 2009. Invited Lecturer.
+  61. 24th Annual Shanks Lecture and Conference Vanderbilt University, May 18-21, 2009. Plenary Speaker. 
+
+
+Conference and Session Organizer
+
+   1. Special session, Mathematical Theory of Networks and Systems--96, St. Louis, Missouri, June 1996.
+   2. Special session, Mathematics for the Life Sciences, Lubbock, Texas, January, 1997.
+   3. Scientific Committee, 2002 Annual Meeting of the Society for Mathematical Biology and International Conference on Mathematics and Biology, U. of Tennessee, Knoxville, July, 2002.
+   4. Special session in honor of T. G. Hallam, 2002 Annual Meeting of the Society for Mathematical Biology and International Conference on Mathematics and Biology, U. of Tennessee, with A. Ackleh, July, 2002.
+   5. Special session, Joint AMS Central and Western Section Meeting, U. of Colorado, Boulder, CO, with S. R. -J. Jang, October 2-4, 2003.
+   6. Special session, AMS Central Section Meeting, Texas Tech U., Lubbock, TX, with S.R.-J. Jang and L.-I. Roeger, April 8-10, 2005.
+   7. Special session, AMS-MAA National Meeting, San Antonio, TX, with S.R.-J. Jang and L.-I. Roeger, January 12-15, 2006.
+   8. Special session, AMS-MAA Joint Mathematics Meeting, New Orleans, LA, with S. R.-J. Jang and L.-I. Roeger, January 2007.
+   9. Conference, Over the Fence: Mathematicians and Biologists Talk about Bridging the Curricular Di- vide, Mathematical Biosciences Institute, The Ohio State University, with J. Galovich, S. Deckelman, and E. Marschall, June 1-2, 2007.
+  10. Special session, AMS-MAA Joint Mathematics Meeting, San Diego, CA, with S.R.-J. Jang and L.-I. Roeger, January 2008.
+  11. Special session, AMS-MAA Joint Mathematics Meeting, San Francisco, CA, with S.R.-J. Jang and L.-I. Roeger, January 2010.
+  12. NIMBioS Investigative Workshop: Mathematical Modeling of Wildlife and Viruses Zoonoses, University of Tennessee, Knoxville, with C. Jonsson and P. van den Driessche, November 8-10, 2010. 
