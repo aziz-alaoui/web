@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<title>Welcome to RevolverMaps
+ | RevolverMaps - Free 3D Visitor Maps</title>
+<meta charset="utf-8">
+<meta name="robots" content="all">
+<meta name="keywords" content="visitor,map,maps,3d,engine,globe,globes,revolvermaps,widget,widgets,ip,location,geolocation,traffic,sitetraffic,live,statistics,livestatistics">
+<meta name="author" content="Aziz Alaoui" >
+<meta name="description" content="RevolverMaps: Interactive 3D Visitor Globes">
+<meta name="referrer" content="origin">
+<link rel="stylesheet" type="text/css" href="/css/layout3.css">
+<link rel="stylesheet" type="text/css" href="content/home/css/s.css">
+<link rel="canonical" href="https://www.revolvermaps.com">
+<link rel="alternate" media="only screen and (max-width: 767px)" href="https://www.revolvermaps.com/mobile/">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="mask-icon" href="/graph/svg/revolvermaps-mask-icon.svg" color="#4d4d4d">
+</head>
+<body>
+<script src="/lib/js/rm/opt_l1_20.php"></script>
+
+<script>rmGCookie('cookieconsent')||document.write('<div id="layout-cookiemsg">This website uses cookies to personalize content and to display non-personalized ads. Information about your use of this site may be shared with the advertising partner. <a href="//www.revolvermaps.com/?target=privacy">See Details</a>&nbsp;<a onclick="rmSCookie(\'cookieconsent\',1);rmScaleAnimation(this.parentNode,-1);">Ok</a></div>');</script>
+
+<div id="layout-redmessage" class="layout-bg urgentmsg"></div><script src="/redmessage.php" async></script>
+
+<noscript><div class="layout-bg"><div class="layout-centeredpage urgentmsg">This website requires JavaScript.</div></div></noscript>
+
+<div class="layout-bar1">
+	<div class="layout-centeredpage">
+		<a href="/"><img src="/graph/svg/revolvermaps.svg" alt="RevolverMaps"></a>
+		<a class="active" href="/?target=home">About</a><a href="/?target=gallery">Get a Widget</a><a href="/?target=faq">Help</a>
+	</div>
+</div>
+
+<div class="layout-bg">
+
+<div class="layout-centeredpage">
+
+<div class="layout-navi2"><a href="/?target=home" class="active">Home</a><a href="/?target=news">News</a><a href="/?target=info">Info / Contact</a></div>
+
+<div class="layout-headbox"><div><h1>Welcome to RevolverMaps
+</h1><div><ul style="margin:0;">
+<li>Free.
+<li>Customizable.
+<li>No registration, easy installation.
+</ul>
+</div></div></div>
+<div class="layout-sharebox">
+share with your friends: <!--from https://www.buttons.social--><script>document.write('<a href="https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(document.URL)+'"target="_blank"title="Facebook"style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:10%;background:#3b5998;"><svg style="display:block;fill:#fff;height:44%;margin:28% auto;" viewBox="0 -256 864 1664"><path transform="matrix(1,0,0,-1,-95,1280)" d="M 959,1524 V 1260 H 802 q -86,0 -116,-36 -30,-36 -30,-108 V 927 H 949 L 910,631 H 656 V -128 H 350 V 631 H 95 v 296 h 255 v 218 q 0,186 104,288.5 104,102.5 277,102.5 147,0 228,-12 z" /></svg></a> <a href="https://twitter.com/share?url='+encodeURIComponent(document.URL)+'&text='+encodeURIComponent(document.title)+'"target="_blank"title="Twitter"style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:10%;background:#1b95e0;"><svg style="display:block;fill:#fff;height:36%;margin:32% auto;" viewBox="0 -256 1576 1280"><path transform="matrix(1,0,0,-1,-44,1024)" d="m 1620,1128 q -67,-98 -162,-167 1,-14 1,-42 0,-130 -38,-259.5 Q 1383,530 1305.5,411 1228,292 1121,200.5 1014,109 863,54.5 712,0 540,0 269,0 44,145 q 35,-4 78,-4 225,0 401,138 -105,2 -188,64.5 -83,62.5 -114,159.5 33,-5 61,-5 43,0 85,11 Q 255,532 181.5,620.5 108,709 108,826 v 4 q 68,-38 146,-41 -66,44 -105,115 -39,71 -39,154 0,88 44,163 Q 275,1072 448.5,982.5 622,893 820,883 q -8,38 -8,74 0,134 94.5,228.5 94.5,94.5 228.5,94.5 140,0 236,-102 109,21 205,78 -37,-115 -142,-178 93,10 186,50 z" /></svg></a> <a href="https://www.reddit.com/submit?url='+encodeURIComponent(document.URL)+'&title='+encodeURIComponent(document.title)+'"target="_blank"title="Reddit"style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:10%;background:#ff4500;"><svg style="display:block;fill:#fff;height:46%;margin:26% auto;" viewBox="0 -256 1792 1692"><path transform="matrix(1,0,0,-1,0,1280)" d="m 1792,690 q 0,-58 -29,-105.5 -30,-47.5 -80,-72.5 12,-46 12,-96 0,-155 -106,-287 Q 1482,-3 1298,-79.5 1114,-156 898,-156 682,-156 498.5,-79.5 315,-3 208.5,129 102,261 102,416 q 0,47 11,94 Q 62,535 31,583.5 0,632 0,690 q 0,82 58,140.5 58,58.5 141,58.5 85,0 145,-63 218,152 515,162 l 116,521 q 3,13 15,21 12,8 26,5 l 369,-81 q 18,37 54,60 36,22 79,22 62,0 106,-43 44,-44 44,-106 0,-62 -44,-106 -44,-44 -106,-44 -62,0 -105,44 -44,43 -44,105 l -334,74 -104,-472 q 300,-9 519,-160 58,61 143,61 83,0 141,-58.5 58,-58.5 58,-140.5 z M 418,491 q 0,-62 43.5,-106 43.5,-44 105.5,-44 62,0 106,44 44,44 44,106 0,62 -44,105.5 Q 629,640 567,640 506,640 462,596 418,552 418,491 z m 810,-355 q 11,11 11,26 0,15 -11,26 -10,10 -25,10 -15,0 -26,-10 -41,-42 -121,-62 -80,-20 -160,-20 -80,0 -160,20 -80,20 -121,62 -11,10 -26,10 -15,0 -25,-10 Q 553,178 553,162.5 553,147 564,136 607,93 682.5,68 758,43 805,38.5 852,34 896,34 q 44,0 91,4.5 47,4.5 123,29.5 75,25 118,68 z m -3,205 q 62,0 106,44 43,44 43,106 0,61 -44,105 -44,44 -105,44 -62,0 -106,-43.5 -44,-43.5 -44,-105.5 0,-62 44,-106 44,-44 106,-44 z" /></svg></a> '+(/mobile|android|blackberry/i.test(navigator.userAgent)?'<a href="whatsapp://send?text='+encodeURIComponent(document.URL)+'"title="WhatsApp"style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:10%;background:#43d854;"><svg style="display:block;fill:#fff;height:44%;margin:28% auto;" viewBox="0 -256 1536 1548"><path transform="matrix(1,0,0,-1,0,1158)" d="m 985,562 q 13,0 98,-44 84,-44 89,-53 2,-5 2,-15 0,-33 -17,-76 -16,-39 -71,-65.5 -55,-26.5 -102,-26.5 -57,0 -190,62 -98,45 -170,118 -72,73 -148,185 -72,107 -71,194 v 8 q 3,91 74,158 24,22 52,22 6,0 18,-1 12,-2 19,-2 19,0 26.5,-6 7.5,-7 15.5,-28 8,-20 33,-88 25,-68 25,-75 0,-21 -34.5,-57.5 Q 599,735 599,725 q 0,-7 5,-15 34,-73 102,-137 56,-53 151,-101 12,-7 22,-7 15,0 54,48.5 39,48.5 52,48.5 z M 782,32 q 127,0 244,50 116,50 200,134 84,84 134,200.5 50,116.5 50,243.5 0,127 -50,243.5 -50,116.5 -134,200.5 -84,84 -200,134 -117,50 -244,50 -127,0 -243.5,-50 Q 422,1188 338,1104 254,1020 204,903.5 154,787 154,660 154,457 274,292 L 195,59 437,136 Q 595,32 782,32 z m 0,1382 q 153,0 293,-60 139,-60 240,-161 101,-101 161,-240.5 Q 1536,813 1536,660 1536,507 1476,367.5 1416,228 1315,127 1214,26 1075,-34 935,-94 782,-94 587,-94 417,0 L 0,-134 136,271 Q 28,449 28,660 q 0,153 60,292.5 60,139.5 161,240.5 101,101 240.5,161 139.5,60 292.5,60 z" /></svg></a> ':'')+'<a href="https://www.buttons.social/share/#'+encodeURIComponent(document.URL)+','+encodeURIComponent(document.title)+','+encodeURIComponent(document.querySelector('meta[name=description]')?document.querySelector('meta[name=description]').content:'')+'"target="_blank"title="More Services"style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:10%;background:#ab2515;"><svg style="display:block;fill:#fff;height:28%;margin:46% auto 0;" viewBox="0 0 10 4"><circle cx="2" cy="2" r="1" /><circle cx="5" cy="2" r="1" /><circle cx="8" cy="2" r="1" /></svg></a>');</script><!--end buttons.social-->
+</div>
+<div class="layout-content">
+
+<div class="layout-floatbox"><script>rmMobileRedirect('/mobile/');</script>
+<script>var rmCanGL=rmGLSupport()!==false&&rmIsGLShaderPrecisionHigh()&&window.requestAnimationFrame;</script>
+
+<h2 class="first">Description</h2>
+
+<div class="layout-sidebox" style="width:160px;height:600px;"><div class="layout-ad" style="width:160px;min-height:600px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- rmv2 160x600 text+display -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-4222107390938546"
+     data-ad-slot="7394424085"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+
+RevolverMaps are a <a href="?target=gallery" title="Widget Gallery">collection</a> of <b>real-time visitor statistics widgets</b> for your <b>website</b> or <b>blog</b>.<p>
+
+<div id="conti" class="annotation"><div class="layout-valignmiddle"></div>
+<i>demo widget: <script>document.write('<a href="?target=setup'+(rmCanGL?'gl':'')+'" title="Get RevolverMaps Standard '+(rmCanGL?'GL':'Classic')+'">RevolverMaps Standard '+(rmCanGL?'GL':'Classic')+'</a>');</script></i>
+</div>
+Have a look at the sample on the left: Every visitor leaves an eternal dot on the <b>3D</b> globe, recent visitor locations are tagged by the labels showing the flag of the country as well as city and state.
+<p>All widgets are <b>free</b> of charge, <b>easy</b> to install and <b>customizable</b> in size and appearance. Every widget is connected to the public live statistics page providing more detailed information on your visitors.
+<p>Get an overview of all widgets in the <a href="?target=gallery" title="Widget Gallery">widget gallery</a>.
+
+<div style="clear:left;"></div>
+
+<h2>Get Started</h2>
+
+To <b>quickly embed the globe</b> from the sample above in your page you just have to <b>copy the code</b> from the textarea below <b>to the desired position</b> in your HTML structure. <script>document.write(rmCanGL?'Fitting <b>responsively</b> into your layout your':'Your');</script> globe will instantly start recording your visitors.
+
+<p>
+<div id="form">
+
+<script>
+rmCanGL||document.write('<div><div>Choose a Size:</div><select size="1" onchange="rmSetSize(this.value);"><option value="320" selected>large - 320px × 320px</option><option value="270">medium - 270px × 270px</option><option value="220">small - 220px × 220px</option></select><p><a class="button" href="?target=setup" title="RevolverMaps Standard Classic Configurator">more options</a></div>');
+</script>
+
+<div>
+<div>Copy and paste the code into your site:</div>
+<textarea readonly id="codetf" onclick="this.focus();this.select();"></textarea>
+<div>
+<div class="annotation">By copying the code you agree to the <a href="?target=terms">Terms of Service</a>.</div>
+<script>document.queryCommandSupported&&document.queryCommandSupported('copy')&&document.write('<button onclick="ge(\'codetf\').select();toolTip(ce(\'div\',undefined,document.execCommand(\'copy\')?\'Copied! Now you can paste the code into your site.\':\'Error, please copy with ctrl-c or cmd-c or via context menu!\',\'tooltiptext\'),0,-40,this);setTimeout(function(){toolTip();},4000);">copy to clipboard</button>');</script>
+</div>
+</div>
+
+<div>
+<script>rmCanGL&&document.write('<div>Or:</div><a class="button" href="?target=setupgl" title="RevolverMaps Standard GL Configurator">see more options</a>');</script>
+</div>
+</div>
+<script>
+var rmCurrentSize,rmHoHa;
+function rmSetCode(){
+	ge('codetf').value=rmHoHa===false?'Error, please try again later.':(rmHoHa?(rmCanGL?('\x3Cscript type="text/javascript" src="//'+rmHoHa[0]+'.revolvermaps.com/0/0/6.js?i='+rmHoHa[1]+'&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async">\x3C/script>'):('\x3Cscript type="text/javascript" src="//'+rmHoHa[0]+'.revolvermaps.com/0/0/1.js?i='+rmHoHa[1]+'&amp;m=7&amp;s='+rmCurrentSize+'&amp;c=e63100" async="async">\x3C/script>')):'Loading...');
+}
+function rmSetSize(s){
+	if(s!==rmCurrentSize){
+		rmCurrentSize=s;
+		var t=ce('script'),c=ge('conti').firstChild;
+		rmChilds(c);
+		if(localStorage['rm_disabled']){
+			t=ct('RevolverMaps disabled');
+		}
+		else{
+			t.type='text/javascript';
+			t.src=rmCanGL?'//ra.revolvermaps.com/0/0/6.js?i=0ffftggap69&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80':'//ra.revolvermaps.com/0/0/1.js?i=0ffftggap69&m=7&s='+rmCurrentSize+'&c=e63100';
+		}
+		c.appendChild(t);
+		rmSetCode();
+	}
+}
+rmSetSize(320);
+(function(t){
+try{
+	t.open('GET','content/home/gc2.php?r='+Math.random(),true);
+	t.onreadystatechange=function(){
+		if(t.readyState==4){
+			rmHoHa=t.status==200?t.responseText.split(','):false;
+			rmSetCode();
+		}
+	};
+	t.send(null);
+}
+catch(e){}
+})(new XMLHttpRequest);
+</script>
+
+<h2>More Widgets, More Configuration Options</h2>
+→ <script>document.write('<a href="?target=setup'+(rmCanGL?'gl':'')+'" title="Get RevolverMaps Standard '+(rmCanGL?'GL':'Classic')+'">Get the Standard Version</a>');</script>, the globe as shown above<p>
+→ <script>document.write('<a href="?target=setupmini'+(rmCanGL?'gl':'')+'" title="Get RevolverMaps Mini '+(rmCanGL?'GL':'Classic')+'">Get the Mini Globe</a>');</script>, a globe optimized for small sizes<p>
+→ <a href="?target=setupplain" title="Get RevolverMaps Plain">Get the Plain Version</a>, a 2D map<p>
+→ <a href="?target=setupbutton" title="Get RevolverMaps Button">Get the Button</a>, a very small globe<p>
+→ <a href="?target=setuplink" title="Get RevolverMaps Link">Get the Link Widget</a>, a text link to the live statistics page<p>
+→ <a href="?target=setup24" title="Get RevolverMaps 24 Hours Chart">Get the 24 Hours Chart</a>, displays the visits over the last 24 hours
+</div>
+
+ 
+
+</div>
+ 
+
+</div>
+
+</div>
+
+<div class="layout-barend">RevolverMaps are customizable visitor map widgets combined with a live statistics function. The easy setup makes the free service attractive for private and professional webmasters, webdesigners, bloggers, social networkers...<br>© 2008 - 2020 Karma Implementor. All Rights Reserved.</div>
+
+</body></html>
